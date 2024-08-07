@@ -1,0 +1,109 @@
+{
+    "number": "2015-16",
+    "date": "24 Şubat 2015",
+    "published": "3 Mart 2015",
+    "topics": [
+        {
+            "title": "Enflasyon Gelişmeleri",
+            "items": [
+                {
+                    "index": 1,
+                    "text": "Ocak ayında tüketici fiyatları yüzde 1,10 oranında artmış ve yıllık enflasyon 0,93 puan azalarak yüzde 7,24’e gerilemiştir. Bu düşüşte enerji ve gıda fiyatları temel belirleyici olurken hizmetler dışındaki tüm alt gruplarda enflasyon yavaşlamıştır. Uluslararası petrol fiyatlarındaki düşüşlerin etkisiyle enerji fiyatlarındaki azalış sürmüştür. Ana eğilim itibarıyla çekirdek göstergelerdeki iyileşme temel mal kaynaklı olarak devam etmiştir."
+                },
+                {
+                    "index": 2,
+                    "text": "Gıda grubu yıllık enflasyonu 1,76 puan azalarak yüzde 10,97’ye düşmüştür. Mevsimsellikten arındırılmış verilerle işlenmemiş gıda grubu fiyatları önceki dört aylık düşüşün ardından Ocak ayında yeniden yükselse de grup yıllık enflasyonu yüzde 9,39’a gerilemiştir. İşlenmiş gıda grubunda ise fiyatlar aylık olarak yüksek oranlı artış kaydetmiş, ancak yıllık enflasyon yüksek bazın da etkisiyle yüzde 12,56’ya gerilemiştir. Şubat ayına ilişkin göstergeler gıda yıllık enflasyonunun, olumsuz hava koşullarının da etkisiyle işlenmemiş gıda grubu kaynaklı olarak artacağı yönünde sinyal vermektedir."
+                },
+                {
+                    "index": 3,
+                    "text": "Enerji fiyatları Ocak ayında yüzde 0,78 oranında gerileyerek düşüş eğilimini sürdürmüştür. Böylelikle, yıllık enerji enflasyonu 1,50 puan azalarak yüzde -3,04 ile endeks tarihinin en düşük seviyesine gerilemiştir. Bu dönemde petrol fiyatlarındaki düşüşler akaryakıt ve tüpgaz fiyatları kanalıyla etkisini gösterirken belediyelerce belirlenen su tarifelerindeki yüksek oranlı artışlar dikkat çekmiştir. Öte yandan, petrol fiyatlarındaki artış ve Türk lirasındaki değer kaybıyla birlikte Şubat ayında akaryakıt fiyatlarında altı ay sonra gözlenen yükselişler, enerji grubunun yıllık tüketici enflasyonuna yaptığı düşüş yönlü katkının azalacağına işaret etmektedir."
+                },
+                {
+                    "index": 4,
+                    "text": "Temel mal grubu yıllık enflasyonu yaklaşık 0,3 puanlık bir azalışla yüzde 8,57’ye gerilemiştir. Bu gelişmede başta dayanıklı tüketim malları olmak üzere giyim grubu dışında kalan mallar belirleyici olmuştur. Grup yıllık enflasyonu büyük ölçüde baz etkisiyle düşüş kaydetse de dayanıklı mallar genelinde yüksek oranlı fiyat artışları gözlenmiştir. Giyim ve dayanıklı mallar dışında kalan gruplarda da yıllık enflasyon gerilerken aylık enflasyonun yükseldiği görülmüştür. Yakın dönem döviz kuru gelişmeleri temel mal enflasyonunda öngörülen düşüş sürecini sınırlayabilecek olmakla birlikte grup enflasyonunda yılın ilk çeyreğinde belirgin bir iyileşme olması beklenmektedir."
+                },
+                {
+                    "index": 5,
+                    "text": "Hizmet fiyatları yılın ilk ayında yüzde 1,06 oranında artmış ve grup yıllık enflasyonu 0,14 puan artışla yüzde 8,73’e yükselmiştir. Bu yükselişte haberleşme ve diğer hizmet grupları etkili olmuştur. Ayrıca bu dönemde bakım-onarım ve sağlık gruplarında da enflasyon yükselmiştir. Buna ek olarak gıda fiyatlarındaki olumsuz gelişmeler doğrultusunda lokanta-otel yıllık enflasyonu yüksek seviyesini korumuştur. Bu doğrultuda, mevsimsellikten arındırılmış veriler hizmet enflasyonu ana eğiliminin yükseldiğine işaret etmiştir."
+                },
+                {
+                    "index": 6,
+                    "text": "Özetle Ocak ayı, çekirdek enflasyon göstergelerinin ana eğilimindeki iyileşmenin devam ettiği ve uluslararası petrol fiyatlarındaki düşüşlerin sürmesiyle birlikte enerji enflasyonunun olumlu seyrettiği bir dönem olmuştur. Önümüzdeki dönemde, enflasyon eğilimlerinin geldiği makul seviyelerin devam etmesi ile birlikte çekirdek enflasyondaki düşüşün devam edeceği öngörülmektedir."
+                }
+            ]
+        },
+        {
+            "title": "Enflasyonu Etkileyen Unsurlar",
+            "items": [
+                {
+                    "index": 7,
+                    "text": "2014 yılı son çeyreğine ilişkin veriler iktisadi faaliyette sınırlı bir toparlanma olduğuna işaret etmektedir. Sanayi üretimi Aralık ayında yüzde 1,2 oranında artış kaydetmesine rağmen, diğer ulaşım araçlarındaki oynak seyir ve Kurban Bayramının da etkisi ile üçüncü çeyreğe göre yüzde 0,5 oranında gerilemiştir. Bu dönemde dış talepteki zayıf seyrin yavaşlatıcı etkileri daha net görülürken, iç talepteki ivmelenmenin henüz yeterli düzeyde olmaması da iktisadi faaliyetin güçlü bir toparlanma sergilemesini engellemektedir."
+                },
+                {
+                    "index": 8,
+                    "text": "Harcama tarafına ilişkin verilere göre, 2014 yılı son çeyreğinde tüketim malları üretimi üçüncü çeyrek ortalamasına kıyasla artarken, tüketim malları ithalatındaki gerileme sınırlı düzeylerde kalmıştır. İç piyasaya yapılan otomobil ve beyaz eşya satışlarında güçlü artışlar gerçekleşmiştir. Krediler ise ılımlı artış eğilimini korumuştur. Bu dönemde tüketici güvenindeki zayıf seyir ise tüketim harcamalarını sınırlayan bir unsur olmuştur. Diğer taraftan, yatırımlara ilişkin göstergelerden makine - teçhizat üretimi bir miktar gerilerken ithalatı belirgin bir artış kaydetmiştir. İnşaat yatırımlarına ilişkin verilerden mineral maddeler üretimi ile inşaat istihdamında toparlanma gözlenmektedir. Yatırım eğiliminde 2014 yılı ilk yarısına kıyasla gözlenen iyileşme de yatırımlar ile ilgili olumlu sinyaller vermektedir. Bu bilgiler ışığında, yurt içi özel kesim talebinin son çeyrekte ılımlı bir artış sergilediği düşünülmektedir."
+                },
+                {
+                    "index": 9,
+                    "text": "Dış talep göstergeleri, 2014 yılının son çeyreğinde net ihracatın büyümeye katkı yapmadığına işaret etmektedir. Bu dönemde ana ticaret ortaklarının büyüme hızlarındaki yavaşlama ve jeopolitik gelişmeler ihracattaki artışı sınırlarken, yurt içi talepteki ılımlı toparlanmayla birlikte ithalat talebinde artış gözlenmiştir. Bu sebeple, altın hariç mal bazında dengelenme sürecinde yılın son çeyreğinde herhangi bir iyileşme gerçekleşmediği değerlendirilmektedir. Bununla birlikte, dış ticaret hadlerindeki olumlu gelişmeler ve tüketici kredilerinin ılımlı seyri cari dengedeki iyileşme sürecini desteklemektedir."
+                },
+                {
+                    "index": 10,
+                    "text": "2015 yılı ilk çeyreğine ilişkin mevcut veriler 2014 yılı son çeyreğindeki görünümün devam edeceği yönünde sinyaller vermektedir. Ocak ayı PMI ve Şubat ayı İktisadi yönelim anketi (İYA) verileri üretimde bir ivmelenmeye işaret etmemektedir. Finans piyasalarında gözlenen oynaklık artışı ve tüketici güvenindeki zayıf seyir iç talebi kısıtlayıcı etki yapmaktadır. Ayrıca, Ocak ayı dış ticaret verileri ihracatta dış talep kaynaklı zayıf görünümün devam ettiğini göstermektedir."
+                },
+                {
+                    "index": 11,
+                    "text": "2014 yılı Kasım döneminde mevsimsel etkilerden arındırılmış verilere göre işsizlik oranları tarım dışı istihdamdaki zayıf seyrin etkisiyle artış göstermiştir. İnşaat istihdamında Ağustos döneminde başlayan toparlanma eğilimi sürerken, sanayi istihdamı gerileyerek önceki aylardaki artışını geri almıştır. Hizmetler sektörü tarım dışı istihdama katkı vermeye devam etmiştir. Firmaların istihdam gerçekleşmelerini ve beklentilerini yansıtan PMI ve İYA anket göstergeleri 2015 yılı Ocak ayı itibarıyla yüksek seviyelerini korumakta ve sanayi istihdamında ek bir kötüleşme sinyali vermemektedir. Diğer taraftan sanayi üretiminde artışların sınırlı olması sanayi istihdamı açısından risklerin aşağı yönlü olduğuna işaret etmektedir. İşgücü piyasası geneline ilişkin göstergeler 2015 yılı Ocak ayı itibarıyla istihdam artışlarının zayıf işsizlik oranının ise durağan olduğuna işaret etmektedir."
+                }
+            ]
+        },
+        {
+            "title": "Para Politikası ve Riskler",
+            "items": [
+                {
+                    "index": 12,
+                    "text": "Sıkı para politikası duruşunun ve alınan makroihtiyati önlemlerin etkisiyle kredi büyüme hızları makul düzeylerde seyretmektedir. Kredilerin bileşimi de arzu edilen yönde ilerlemeye devam etmektedir. Ticari krediler, tüketici kredilerine kıyasla oldukça yüksek bir hızla büyümektedir. Kredilerdeki bu görünüm bir yandan orta vadeli enflasyon baskılarını sınırlarken diğer yandan cari dengedeki düzelmeyi desteklemektedir."
+                },
+                {
+                    "index": 13,
+                    "text": "Türkiye’nin en büyük ihracat pazarı olan Avrupa ülkelerinde büyümenin zayıf seyretmeye devam etmesi ve çevre ülkelerdeki jeopolitik gelişmeler sonucunda dış talepte yaşanan zayıflama ihracat büyümesini sınırlandırıcı etki yapmaktadır. İç talepte ise, düşük petrol fiyatları kaynaklı gelir etkisinin de katkısıyla, kademeli bir toparlanma yaşanacağı öngörülmektedir. Özetle, dış talep zayıf seyrini korurken iç talep büyümeye ılımlı düzeyde katkı vermektedir. Bu çerçevede, önümüzdeki dönemde büyüme kompozisyonunun iç talep lehine değişeceği tahmin edilmektedir. Kompozisyondaki bu değişim enerji dışı cari açığı bir miktar artırabilecek olsa da enerji ticareti dengesindeki iyileşmeye bağlı olarak cari açığın azalmaya devam edeceği öngörülmektedir."
+                },
+                {
+                    "index": 14,
+                    "text": "Önümüzdeki dönemde iktisadi faaliyete dair aşağı yönlü riskler önemini korumaktadır. Küresel finans piyasalarında oynaklığın devam etmesi ve güven endekslerindeki zayıf seyir özel kesim nihai talebinin büyümeye yaptığı katkıyı sınırlayabilecektir. Dış talepte ek zayıflama gözlenmesi ve küresel büyüme oranlarının önemli oranda gerilemesi durumunda, emtia fiyatlarında yaşanacak düşüşler enflasyonu azaltıcı etki yapacak, fakat aynı zamanda yurt içi iktisadi faaliyet üzerinde belirgin olumsuz etkiler gözlenebilecektir. Bu durumda, Kurul politika araçlarını ekonomiyi destekleyici yönde kullanacaktır."
+                },
+                {
+                    "index": 15,
+                    "text": "Uygulanan temkinli para ve maliye politikaları ile alınan makroihtiyati önlemler enflasyonu, özellikle enerji ve gıda dışı (çekirdek) enflasyon göstergelerini olumlu yönde etkilemektedir. Bu çerçevede Kurul, çekirdek enflasyondaki düşüşün devam edeceğini öngörmektedir. Ayrıca, başta petrol olmak üzere emtia fiyatlarındaki düşük seviyeler enflasyondaki düşüş sürecini desteklemeye devam etmektedir. Fakat yakın dönemde petrol fiyatlarında ve döviz kurlarında yaşanan oynaklıklar, enerji grubunun enflasyondaki düşüş sürecine verdiği katkıyı bir miktar sınırlayabilecektir. Gıda fiyatlarında da iklim koşulları kaynaklı, özellikle işlenmemiş gıda grubunda olmak üzere, oynaklıklar gözlenebilecektir."
+                },
+                {
+                    "index": 16,
+                    "text": "Enflasyonda öngörülen düşüşün kalıcı hale gelmesi, son on yılda enflasyonda sağlanan kazanımların korunması açısından önem taşımaktadır. Enflasyonda kalıcı olarak düşüş sağlanması, özellikle risk primi ve enflasyon priminde gerilemeye yol açmak suretiyle uzun dönemli reel faiz oranının düşmesine katkıda bulunacaktır. Bu gelişmeler kamu dengesini ve potansiyel büyümeyi olumlu şekilde etkileyecektir. Bu çerçevede, enflasyondaki düşüşün kalıcı olması için para politikasında temkinli bir yaklaşım gerekmektedir. Gıda ve enerji fiyatlarındaki artan oynaklığı da dikkate alan Kurul, faiz oranlarında indirimlere gitmiş fakat temkinli bir yaklaşımla indirimlerin ölçülü tutulmasını uygun görmüştür. Önümüzdeki dönemde para politikası kararları enflasyon görünümündeki iyileşmenin hızına bağlı olacaktır. Enflasyon beklentileri, fiyatlama davranışları ve enflasyonu etkileyen diğer unsurlar yakından izlenecek ve enflasyon görünümünde belirgin bir iyileşme sağlanana kadar getiri eğrisini yataya yakın tutmak suretiyle para politikasındaki temkinli duruş sürdürülecektir."
+                },
+                {
+                    "index": 17,
+                    "text": "Küresel finans piyasaları dalgalı bir seyir izlemeye devam etmektedir. Küresel para politikalarına dair süregelen belirsizlikler, risk iştahının ve sermaye akımlarının verilere duyarlı kalmasına neden olmaktadır. Amerika Merkez Bankası’nın (Fed) faiz politikasında normalleşme süreci ve Avrupa Merkez Bankası’nın açıkladığı nicel genişleme programı finans piyasalarını etkileyen önemli gelişmeler olmuştur. Kurul, Fed’in olası bir erken faiz artırımına karşı Merkez Bankası’nın elinde yeterince araç olduğunu vurgulamıştır. Öte yandan, gelişmiş ülkelerde artan deflasyon riski para politikalarındaki normalleşme sürecinin ötelenme olasılığı artırmaktadır. Kurul, küresel finans ve iktisadi faaliyet gelişmelerine dair belirsizliklerin devam ettiği bu ortamda, makrofinansal risklerin kontrol altında tutulması amacıyla basiretli borçlanmanın önemini vurgulamıştır."
+                },
+                {
+                    "index": 18,
+                    "text": "Maliye politikasına ve vergi düzenlemelerine ilişkin gelişmeler enflasyon görünümüne etkileri bakımından yakından takip edilmektedir. Para politikası duruşu oluşturulurken, mali disiplinin korunacağı ve yönetilen/yönlendirilen fiyatlarda öngörülmeyen bir artış gerçekleşmeyeceği varsayılmaktadır. Maliye politikasının söz konusu çerçeveden belirgin olarak sapması ve bu durumun orta vadeli enflasyon görünümünü olumsuz etkilemesi halinde para politikası duruşunun da güncellenmesi söz konusu olabilecektir."
+                },
+                {
+                    "index": 19,
+                    "text": "Kurul, Orta Vadeli Program’da enflasyonla mücadelenin öncelikli konu olarak yer almasının olumlu bir gelişme olduğunu ifade etmiştir. Ayrıca, açıklanan yapısal reformların uygulamaya geçirilmesinin büyüme potansiyelini önemli ölçüde artırabileceğini belirtilmiştir. Mali disiplini kalıcı hale getirecek ve tasarruf açığını azaltacak her türlü tedbir makroekonomik istikrarı destekleyecek ve uzun vadeli kamu borçlanma faizlerinin düşük düzeylerde seyretmesini sağlayarak toplumsal refaha olumlu katkıda bulunacaktır."
+                }
+            ]
+        }
+    ],
+    "decision": "2015-13",
+    "governor": "Erdem Başçı",
+    "board": [
+        "Ahmet Faruk Aysan",
+        "Murat Çetinkaya",
+        "Turalay Kenç",
+        "Necati Şahin",
+        "Abdullah Yavaş",
+        "Mehmet Yörükoğlu"
+    ],
+    "abstract": "Para Politikası Kurulu (Kurul), Merkez Bankası bünyesindeki Bankalararası Para Piyasası ve Borsa İstanbul Repo-Ters Repo Pazarlarında uygulanmakta olan faiz oranları ile bir hafta vadeli repo ihale faiz oranının aşağıdaki gibi belirlenmesine karar vermiştir: a) Gecelik faiz oranları: Marjinal fonlama oranı yüzde 11,25’ten yüzde 10,75’e, açık piyasa işlemleri çerçevesinde piyasa yapıcısı bankalara repo işlemleri yoluyla tanınan borçlanma imkanı faiz oranı yüzde 10,75’ten yüzde 10,25’e, Merkez Bankası borçlanma faiz oranı yüzde 7,5’ten yüzde 7,25’e indirilmiştir. b) Bir hafta vadeli repo ihale faiz oranı yüzde 7,75’ten yüzde 7,5’e indirilmiştir. c) Geç Likidite Penceresi faiz oranları: Geç Likidite Penceresi uygulaması çerçevesinde, Bankalararası Para Piyasası’nda saat 16.00-17.00 arası gecelik vadede uygulanan Merkez Bankası borçlanma faiz oranı yüzde 0 düzeyinde sabit tutulmuş, borç verme faiz oranı ise yüzde 12,75’ten yüzde 12,25’e indirilmiştir. Sıkı para politikası duruşunun ve alınan makroihtiyati önlemlerin etkisiyle kredi büyüme hızları makul düzeylerde seyretmektedir. Dış ticaret hadlerindeki olumlu gelişmeler ve tüketici kredilerinin ılımlı seyri cari dengedeki iyileşmeyi desteklemektedir. Dış talep zayıf seyrini korurken iç talep büyümeye ılımlı düzeyde katkı vermektedir. Kurul, açıklanan yapısal reformların uygulamaya geçirilmesinin büyüme potansiyelini önemli ölçüde artırabileceğini değerlendirmektedir. Uygulanan temkinli para ve maliye politikaları ile alınan makroihtiyati önlemler enflasyonu, özellikle enerji ve gıda dışı (çekirdek) enflasyon göstergelerini ve enflasyon beklentilerini olumlu yönde etkilemektedir. Kurul, çekirdek enflasyondaki düşüşün devam edeceğini öngörmektedir. Bununla birlikte, enflasyondaki düşüşün kalıcı olması için para politikasında temkinli bir yaklaşım gerekmektedir. Gıda ve enerji fiyatlarındaki artan oynaklığı da dikkate alan Kurul, faiz oranlarındaki indirimin ölçülü tutulmasını uygun görmüştür. Önümüzdeki dönemde para politikası kararları enflasyon görünümündeki iyileşmenin hızına bağlı olacaktır. Enflasyon beklentileri, fiyatlama davranışları ve enflasyonu etkileyen diğer unsurlar yakından izlenecek ve enflasyon görünümünde belirgin bir iyileşme sağlanana kadar getiri eğrisini yataya yakın tutmak suretiyle para politikasındaki temkinli duruş sürdürülecektir. Açıklanacak her türlü yeni verinin ve haberin Kurul’un geleceğe yönelik politika duruşunu değiştirmesine neden olabileceği önemle vurgulanmalıdır. Para Politikası Kurulu Toplantı Özeti beş iş günü içinde yayımlanacaktır."
+}

@@ -1,0 +1,88 @@
+{
+    "number": "2018-41",
+    "date": "13 Eylül 2018",
+    "published": "20 Eylül 2018",
+    "topics": [
+        {
+            "title": "Enflasyon Gelişmeleri",
+            "items": [
+                {
+                    "index": 1,
+                    "text": "Ağustos ayında tüketici fiyatları yüzde 2,30 oranında artmış, yıllık enflasyon 2,05 puan yükselerek yüzde 17,90 olmuştur. Bu dönemde yıllık enflasyondaki artış alt gruplar geneline yayılmış, enflasyondaki yükselişin ana sürükleyicileri döviz kuru gelişmelerine bağlı olarak temel mal ve enerji grupları olmuştur. Son dönemde maliyet yönlü baskılar artmış, ekonomik birimlerin fiyat arttırma eğilimleri güçlenmiştir."
+                },
+                {
+                    "index": 2,
+                    "text": "Ağustos ayında gıda ve alkolsüz içecekler grubu yıllık enflasyonu 0,35 puan artarak yüzde 19,75’e yükselmiştir. Bu dönemde mevsimsellikten arındırılmış işlenmemiş gıda fiyatları yataya yakın bir seyir izlemiştir. Diğer taraftan işlenmiş gıda fiyatları Ağustos ayında yüzde 2,12 artmış, bu gelişmede döviz kurunun yanı sıra işlenmemiş gıda grubunda yer alan girdi niteliğindeki ürün fiyatlarındaki gelişmelerin etkisi hissedilmiştir."
+                },
+                {
+                    "index": 3,
+                    "text": "Ağustos ayında enerji fiyatları yüzde 5,37 oranında yükselmiş ve grup yıllık enflasyonu 3,85 puan artışla yüzde 21,34’e ulaşmıştır. Bu gelişmede elektrik ve doğalgaz ile ÖTV düzenlemesine bağlı olarak yükselen akaryakıt fiyatları etkili olmuştur."
+                },
+                {
+                    "index": 4,
+                    "text": "Temel mal grubu yıllık enflasyonu Ağustos ayında 3,60 puan yükselerek yüzde 23,18’e ulaşmıştır. Bu dönemde, dayanıklı tüketim malları ve diğer temel mallar grubundaki fiyat artışları döviz kuru kaynaklı olarak alt kalemler geneline yayılmaya devam etmiştir. Dayanıklı tüketim malı fiyatları yüzde 5,49 artmış, giyim grubunda sezon indirimleri mevsim normallerine kıyasla daha sınırlı gerçekleşmiştir."
+                },
+                {
+                    "index": 5,
+                    "text": "Hizmet grubu yıllık enflasyonu bir önceki aya kıyasla 0,80 puan artarak yüzde 11,84’e yükselmiştir. Ulaştırma hizmetleri enflasyonunda güçlü seyreden turizm ile akaryakıt fiyatlarındaki yükseliş etkili olmuştur. Konaklama hizmetleri fiyatları ise döviz kuru gelişmeleri ve turizmdeki canlı seyre bağlı olarak artış eğilimini sürdürmüştür."
+                }
+            ]
+        },
+        {
+            "title": "Enflasyonu Etkileyen Unsurlar",
+            "items": [
+                {
+                    "index": 6,
+                    "text": "Gayri Safi Yurt İçi Hasıla (GSYİH) 2018 yılının ikinci çeyreğinde dönemlik yüzde 0,9, yıllık yüzde 5,2 oranlarında artış kaydetmiştir. Böylelikle iktisadi faaliyetin yavaşlayarak ana eğilimine yöneldiği ve kompozisyon bakımından dengelendiği gözlenmiştir. İkinci çeyrekte dönemlik büyümenin temel belirleyicisi, turizmdeki toparlanmanın güç kazanmasıyla net ihracat olmuştur."
+                },
+                {
+                    "index": 7,
+                    "text": "Son dönemde açıklanan veriler iktisadi faaliyette dengelenme eğiliminin belirginleştiğine işaret etmektedir. Yılın üçüncü çeyreğine ilişkin verilere göre dış talep gücünü korumaktadır. Küresel büyüme görünümündeki istikrarlı seyirle birlikte dış talepteki artışın ve dış piyasalarda pazar çeşitlendirme esnekliğinin ihracat üzerindeki olumlu etkisi sürmektedir. Kurul, turizm ve diğer hizmet gelirlerindeki toparlanmanın oldukça güçlü seyrettiğini ve bu görünüm altında net ihracatın dönemlik büyümeye olumlu katkısının üçüncü çeyrekte de artabileceğini not etmiştir. Önümüzdeki dönemde mal ve hizmet ihracatının büyümeye güçlü desteğinin sürmesi ve iç talepteki yavaşlamaya bağlı olarak ithalat talebindeki yavaşlamanın cari dengeyi olumlu etkilemeye devam etmesi beklenmektedir."
+                }
+            ]
+        },
+        {
+            "title": "Para Politikası ve Riskler",
+            "items": [
+                {
+                    "index": 8,
+                    "text": "Küresel ekonomiye ilişkin veriler, büyümenin istikrar kazanarak gücünü korumaya devam ettiğine ve yıl sonuna ilişkin görünümün olumlu seyrettiğine işaret etmektedir. Buna paralel olarak yükselen emtia fiyatları ve enerji fiyatlarına karşın, tüketici ve çekirdek enflasyon oranları küresel ölçekte ılımlı seyretmeye devam etmektedir. Önümüzdeki dönemde küresel büyüme görünümü üzerinde aşağı yönlü risklerin daha belirgin olduğu değerlendirilmektedir. Küresel büyüme görünümünü aşağı çekebilecek başlıca risk unsurları, jeopolitik gelişmeler ve dış ticarette artan korumacılık söylemleridir."
+                },
+                {
+                    "index": 9,
+                    "text": "Küresel enflasyona dair riskler değerlendirildiğinde, jeopolitik gelişmeler ile dış ticaret politikalarına dair belirsizliklerin, başta enerji ve metal olmak üzere, emtia fiyatları üzerinde yukarı yönlü risk oluşturabileceği görülmektedir. Ayrıca, gelişmiş ülkelerde düşen işsizlik oranlarına paralel olarak ücretlerin ivmelenme olasılığı da bu ülkelerde enflasyonu artırabilecek önemli bir risk unsurudur."
+                },
+                {
+                    "index": 10,
+                    "text": "Yakın dönemde gelişmiş ülkelerde finansal koşullar sıkılaşmıştır. Güçlü talep koşulları ve emtia fiyatlarındaki yükselişe bağlı olarak enflasyonun hızlanması ihtimali bu ülkelerin para politikalarında öngörülenden hızlı bir sıkılaşma sürecini tetikleyebilecek bir risk oluşturmaktadır. Özellikle ABD’de süregelen olumlu büyüme performansı ve genişletici maliye politikası olarak değerlendirilebilecek yeni vergi yasası, önümüzdeki dönemde Fed’in para politikasındaki normalleşme sürecinin hızlanması ihtimalini artırmaktadır."
+                },
+                {
+                    "index": 11,
+                    "text": "Özetle, jeopolitik belirsizlikler, gelişmekte olan ülkelere yönelen sermaye akımlarının zayıf seyri ve dış ticarete yönelik korumacılık söylemlerinin yaygınlaşması hâlihazırda gelişmekte olan ülkeler grubu görünümünü etkilemeye devam etmektedir."
+                },
+                {
+                    "index": 12,
+                    "text": "Finansal piyasalarda yüksek oynaklık gözlenen bu dönemde maliyet yönlü baskılar ve bunun ikincil etkileri enflasyon görünümünü olumsuz etkilemiştir. Bu çerçevede Kurul, fiyat istikrarını desteklemek amacıyla Eylül ayında güçlü bir parasal sıkılaştırma gerçekleştirmiş ve politika faizi olan bir hafta vadeli repo ihale faiz oranını yüzde 17,75’ten yüzde 24’e yükseltmiş; gecelik vadede gerçekleştirilen Merkez Bankası fonlamasının haftalık vadede yapılmasına başlanacağını duyurmuştur."
+                },
+                {
+                    "index": 13,
+                    "text": "Merkez Bankası fiyat istikrarı temel amacı doğrultusunda elindeki bütün araçları kullanmaya devam edecektir. Enflasyon görünümünde belirgin bir iyileşme sağlanana kadar para politikasındaki sıkı duruş kararlılıkla sürdürülecektir. Enflasyon beklentileri, fiyatlama davranışları, para politikası kararlarının gecikmeli etkileri, maliye politikasının dengelenme sürecine vereceği katkı ve enflasyonu etkileyen diğer unsurlardaki gelişmeler yakından izlenerek ihtiyaç duyulması halinde ilave parasal sıkılaştırma yapılabilecektir."
+                },
+                {
+                    "index": 14,
+                    "text": "Para politikası ve maliye politikası arasında kuvvetlendirilen eşgüdümün enflasyonla mücadele ve makroekonomik dengelenme açısından önemli bir rol oynayacağı düşünülmektedir. Bunun yanı sıra, enflasyondaki katılık ve oynaklıkları azaltacak yapısal adımlara devam edilmesi fiyat istikrarına ve toplumsal refaha olumlu katkıda bulunacaktır."
+                }
+            ]
+        }
+    ],
+    "decision": "2018-38",
+    "governor": "Murat Çetinkaya",
+    "board": [
+        "Ömer Duman",
+        "Uğur Namık Küçük",
+        "Emrah Şener",
+        "Murat Uysal",
+        "Abdullah Yavaş"
+    ],
+    "abstract": "Para Politikası Kurulu (Kurul), politika faizi olan bir hafta vadeli repo ihale faiz oranının yüzde 17,75’ten yüzde 24’e yükseltilmesine karar vermiştir. Son dönemde açıklanan veriler iktisadi faaliyette dengelenme eğiliminin belirginleştiğine işaret etmektedir. Dış talep gücünü korumakla birlikte iç talepteki yavaşlama hızlanmaktadır. Yakın dönemde enflasyon görünümüne ilişkin gelişmeler fiyat istikrarı açısından önemli risklere işaret etmiştir. Döviz kurundaki hareketlerin de etkisiyle fiyat artışlarının alt kalemler bazında genele yayılan bir nitelik gösterdiği dikkat çekmektedir. İç talep koşullarındaki zayıflamaya rağmen fiyatlama davranışlarında gözlenen bozulma enflasyon görünümüne dair yukarı yönlü risk oluşturmaya devam etmektedir. Bu çerçevede Kurul, fiyat istikrarını desteklemek amacıyla güçlü bir parasal sıkılaştırma gerçekleştirilmesine karar vermiştir. Merkez Bankası fiyat istikrarı temel amacı doğrultusunda elindeki bütün araçları kullanmaya devam edecektir. Enflasyon görünümünde belirgin bir iyileşme sağlanana kadar para politikasındaki sıkı duruş kararlılıkla sürdürülecektir. Enflasyon beklentileri, fiyatlama davranışları, para politikası kararlarının gecikmeli etkileri, maliye politikasının dengelenme sürecine vereceği katkı ve enflasyonu etkileyen diğer unsurlardaki gelişmeler yakından izlenerek ihtiyaç duyulması halinde ilave parasal sıkılaştırma yapılabilecektir. Açıklanacak her türlü yeni verinin ve haberin Kurul’un geleceğe yönelik politika duruşunu değiştirmesine neden olabileceği önemle vurgulanmalıdır. Para Politikası Kurulu Toplantı Özeti beş iş günü içinde yayımlanacaktır."
+}

@@ -1,0 +1,123 @@
+{
+    "number": "2007-28",
+    "date": "12 Temmuz 2007",
+    "published": "23 Temmuz 2007",
+    "topics": [
+        {
+            "title": "Enflasyon Gelişmeleri",
+            "items": [
+                {
+                    "index": 1,
+                    "text": "Tüketici fiyatları Haziran ayında yüzde 0,24 oranında azalmış ve yıllık enflasyon 0,63 puan düşerek yüzde 8,60 seviyesine gerilemiştir. Son üç ayda yıllık enflasyondaki toplam düşüş 2,26 puana ulaşmıştır. Böylece, enflasyon yılın ikinci çeyreğinde de belirsizlik aralığının içinde kalmıştır."
+                },
+                {
+                    "index": 2,
+                    "text": "İşlenmemiş gıda fiyatları dalgalı seyrini sürdürmektedir. Geçtiğimiz ay yayımlanan özetlerde, Mayıs ayında sebze fiyatlarının önemli ölçüde gerilemesinin yaz aylarındaki fiyat düşüşlerinin daha sınırlı olma olasılığını gündeme getirdiği belirtilmişti. Nitekim, Haziran ayında sebze fiyatlarındaki gerilemenin geçtiğimiz yılın altında kalmasıyla işlenmemiş gıda fiyatlarının yıllık artışı yükselmiştir. Bu yükseliş meyve fiyatlarındaki kısmi düzeltme hareketine rağmen gerçekleşmiştir. Meyve ve sebze fiyatlarındaki bu dalgalı seyrin yanı sıra, buğday üretimindeki kayıplar da ekmek ve tahıllar grubu kanalıyla tüketici fiyatları üzerinde risk oluşturmaya devam etmektedir."
+                },
+                {
+                    "index": 3,
+                    "text": "Petrol fiyatlarındaki yükseliş son aylarda akaryakıt fiyatları kanalıyla enflasyonu olumsuz yönde etkilemektedir. Diğer yandan konut grubu içinde yer alan enerji kalemlerinin fiyatları olumlu seyrini sürdürmektedir."
+                },
+                {
+                    "index": 4,
+                    "text": "Dayanıklı mal (altın hariç) grubunda yıllık enflasyon gerek Yeni Türk lirasındaki güçlenme, gerekse bu gruba yönelik talepteki yavaşlamanın etkisiyle, yüzde 0,32 oranına gerilemiştir. Diğer taraftan, Haziran ayında giyim ve ayakkabı fiyatlarının mevsimsel eğilimlerin üzerinde artış göstermesiyle bu grubun yıllık enflasyonu yükselişini sürdürerek yüzde 7,15’e ulaşmıştır."
+                },
+                {
+                    "index": 5,
+                    "text": "Haziran ayında hizmet fiyatlarının yıllık artışındaki gerileme duraksama göstermiş olsa da alt kalem fiyat hareketleri hizmet fiyat artışlarındaki yavaşlama eğiliminin devam ettiğine işaret etmektedir. Yıllık artıştaki gerilemenin duraksamasının temel sebebi haberleşme hizmetlerinde yer alan cep telefonu görüşme ücretlerindeki yükseliştir. Ayrıca, petrol fiyatlarındaki artışların belirli bir gecikmeyle ulaştırma hizmetleri fiyatlarına yansıması hizmet fiyat artışlarındaki gerilemeyi sınırlamıştır. Diğer hizmet gruplarının aylık artışı ise geçen yılki seviyelerinin altında kalmıştır. Hizmet fiyatlarında yılın ilk yarısındaki yüzde 4,61’lik artış, 2003 bazlı endeksteki en düşük ilk altı aylık artış oranıdır. Önümüzdeki dönemde hizmet fiyatlarındaki yıllık artışın gerilemeye devam edeceği tahmin edilmektedir."
+                },
+                {
+                    "index": 6,
+                    "text": "Geçen yıl gerçekleştirilen parasal sıkılaştırmanın etkileri özel kapsamlı TÜFE göstergelerinde de kendini göstermektedir. Hizmet ve dayanıklı tüketim malı fiyatlarının son üç ay içindeki olumlu seyri özel kapsamlı TÜFE göstergelerinin yılllık artış hızını önemli ölçüde yavaşlatmıştır. Parasal sıkılaştırmanın gecikmelietkileri ve geçtiğimiz yılın ikinci yarısındaki yüksek baz nedeniyle söz konusu yavaşlamanın önümüzdeki aylarda da süreceği tahmin edilmektedir."
+                }
+            ]
+        },
+        {
+            "title": "Enflasyonu Etkileyen Unsurlar",
+            "items": [
+                {
+                    "index": 7,
+                    "text": "Para Politikası Kurulu (Kurul), son dönemde iktisadi faaliyete ilişkin gelişmelerin Nisan ayı Enflasyon Raporu’nda ortaya koyulan görünüm ile büyük ölçüde uyumlu olduğu değerlendirmesini yapmıştır."
+                },
+                {
+                    "index": 8,
+                    "text": "2007 yılının ilk üç aylık döneminde Gayri Safi Yurt İçi Hasıla (GSYİH) geçen yılın aynı dönemine göre yüzde 6,8 oranında artış göstermiştir. Mevsimsellikten arındırılmış veriler incelendiğinde, GSYİH’nın bir önceki döneme göre yüzde 0,4 oranında arttığı ve ekonomik faaliyetlerde 2006 yılının üçüncü çeyreğinden bu yana gözlenen yavaşlama eğiliminin devam ettiği görülmektedir."
+                },
+                {
+                    "index": 9,
+                    "text": "2007 yılı ilk çeyreğinde, yurt içi talep büyümeye sınırlı bir katkı yapmıştır. Mevsimsellikten arındırılmış veriler incelendiğinde, özel tüketim ve özel makine-teçhizat yatırımı harcamalarının bir önceki çeyreğe kıyasla düşük bir oranda arttığı, buna karşılık inşaat yatırımlarının istikrarlı büyüme eğilimini sürdürdüğü gözlenmektedir."
+                },
+                {
+                    "index": 10,
+                    "text": "Yılın ikinci çeyreğine ilişkin veriler tüketim talebinin ilk çeyrektekine benzer bir seyir izlediğine işaret etmektedir. Bu dönemde ihtiyaç kredilerindeki ivmelenmeye rağmen toplam reel tüketici kredisi kullanımı çeyreklik artış oranı itibarıyla geçen yılın ilk yarısına kıyasla oldukça yavaş seyretmiştir. Otomobil kredileri düşüş eğilimini yılın ikinci çeyreğinde de sürdürürken, özel tüketime ilişkin diğer öncü göstergelerden beyaz eşya yurt içi satışları ve tüketim malları ithalatı mevsimsellikten arındırılmış verilerle Nisan-Mayıs dönemi itibarıyla bir önceki çeyrek ortalamasının altındadır. Bu veriler geçen yılın aynı dönemindeki güçlü taleple birlikte değerlendirildiğinde, ikinci çeyrekte özel tüketim talebinin yıllık bazda gerileme göstermesi beklenmektedir."
+                },
+                {
+                    "index": 11,
+                    "text": "Yatırım talebine ilişkin göstergeler ılımlı bir toparlanmaya işaret etmektedir. Sermaye malları ithalatı Nisan-Mayıs döneminde artış göstermiştir. Diğer yandan, ticari araç satışlarındaki gerileme makine-teçhizat yatırımlarını kısıtlamaya devam etmektedir. İnşaat yatırımları ise önceki iki yıla kıyasla bir miktar yavaşlasa da yüksek oranlı artışını sürdürmektedir."
+                },
+                {
+                    "index": 12,
+                    "text": "2007 yılının ilk çeyreğinde toplam kamu harcamaları bir önceki yılın aynı dönemine göre reel olarak yüzde 9,1 oranında artarak toplam talepteki yavaşlamayı sınırlandırmıştır. 2007 yılı Nisan-Mayıs döneminde faiz dışı bütçe harcamalarındaki yıllık nominal artış oranının yüzde 29,3 düzeyine çıkması, yılın ikinci çeyreğinde de kamu harcamalarındaki yüksek artışların devam ettiğine işaret etmektedir. Hazine nakit faiz dışı dengesine ilişkin ilk altı aylık veriler de bu görünümü teyit etmektedir."
+                },
+                {
+                    "index": 13,
+                    "text": "Dış talep büyümeyi desteklemeye devam etmektedir. Mayıs ayında sanayi üretimi ihracatın katkısıyla güçlü seyrini sürdürmüştür. Haziran ve Temmuz aylarına ilişkin öncü göstergeler de ihracatta yüksek artışlara işaret etmektedir. Dış talebin gücünü koruması ve verimlilik kazanımlarının sürmesiyle ihracattaki artışların devam edeceği tahmin edilmektedir. Bununla birlikte, geçtiğimiz yılın ikinci yarısındaki yüksek baz dikkate alındığında önümüzdeki dönemde ihracatın yıllık büyümesinin ilk yarıya kıyasla daha düşük oranlarda seyredebileceği düşünülmektedir."
+                },
+                {
+                    "index": 14,
+                    "text": "Son aylarda enflasyondaki düşüş eğiliminin belirginleşmesi enflasyon beklentilerine de yansımaktadır. Önümüzdeki dönemde enflasyonun daha da aşağı düzeylere inmesiyle beklentilerdeki iyileşmenin süreceği tahmin edilmektedir. Bununla birlikte Kurul, orta vadeli enflasyon beklentilerinin henüz hedeflerle uyumlu olmamasını temkin gerektiren bir unsur olarak değerlendirmektedir."
+                },
+                {
+                    "index": 15,
+                    "text": "Özetle, enerji ve gıda fiyatlarında, kamu harcamalarında ve dış talepte geçen yılın son çeyreğinden bu yana gözlenmekte olan gelişmeler enflasyondaki düşüş eğilimini sınırlasa da güçlü parasal sıkılaştırmanın gecikmeli etkileriyle iç talep ve enflasyon öngörülen şekilde yavaşlamaktadır."
+                }
+            ]
+        },
+        {
+            "title": "Para Politikası ve Riskler",
+            "items": [
+                {
+                    "index": 16,
+                    "text": "Son dönemdeki gelişmelerin Nisan ayı Enflasyon Raporu’nda ortaya koyulan görünümle büyük ölçüde uyumlu olması dolayısıyla Rapor’da sunulan para politikası duruşu korunmuştur. Bu doğrultuda, Kurul, kısa vadeli faiz oranlarında öngörülen ölçülü indirim sürecinin yılın son çeyreğinde başlayabileceği değerlendirmesinde bulunmuştur. Ancak önümüzdeki dönemde dış talebe, kamu harcamalarına ve orta vadeli enflasyon görünümünü etkileyen diğer değişkenlere dair veri ve bilgi akışına bağlı olarak, olası faiz indirimlerinin zamanlaması ve miktarı farklılaşabilecektir."
+                },
+                {
+                    "index": 17,
+                    "text": "Politika faizlerine ilişkin bu duruşun mevcut bilgi seti ve varsayımlara göre türetilmiş olduğu ve Kurul tarafından verilmiş bir taahhüt niteliği taşımadığı belirtilmelidir. Kurul, önümüzdeki dönemde para politikası duruşunun her iki yönde belirgin olarak güncellenmesini gerektirebilecek önemli belirsizlik unsurlarının bulunduğunu değerlendirmiştir:"
+                },
+                {
+                    "index": 18,
+                    "text": "Enflasyonun geçtiğimiz bir yıl içinde yüksek seviyelerde seyretmesi, enflasyon beklentilerindeki katılığı artıran bir unsur olmuştur. İşlenmemiş gıda ve petrol fiyatlarına ilişkin belirsizliklerin sürmesi ve 2007 yılındaki gelirler politikası uygulamaları da enflasyon beklentilerindeki iyileşmeyi geciktirmiştir. Orta vadeli enflasyon beklentilerinin henüz hedefle uyumlu düzeyde olmaması, son dönemde ekonomik birimlerin hedef enflasyonu gösterge olarak alma oranının azaldığına işaret etmektedir. Bu durum özellikle ücret ayarlamalarına ve dolayısıyla hizmet sektörü enflasyonuna ilişkin risk oluşturmaktadır. Bu riskin gerçekleşmesi halinde enflasyondaki düşüş süreci öngörülenden daha yavaş olacağından, para politikasında öngörülenden daha temkinli bir duruş gerekebilecektir."
+                },
+                {
+                    "index": 19,
+                    "text": "Kuşkusuz, yapısal unsurlar nedeniyle geçmişe endekslemenin de ötesinde katılık gösteren bazı hizmet kalemlerinde fiyatlar para politikasının etki alanı dışındadır. Örneğin, kira kalemindeki artışlar son üç yıldır yüzde 20 civarında seyretmekte ve tek başına bu kalemin yıllık enflasyona katkısı bir puana yaklaşmaktadır. Önümüzdeki aylarda kiralardaki yıllık artış hızının kısmen yavaşlayacağı, orta ve uzun vadede ise konut arzının artmasıyla kiraların daha istikrarlı bir görünüme kavuşacağı düşünülmektedir. Bununla birlikte, kira artışlarının diğer hizmet fiyatlarına kıyasla yüksek seyretmeye devam etme ihtimali enflasyondaki düşüş sürecini yavaşlatabilecek bir risk unsuru olarak değerlendirilmektedir."
+                },
+                {
+                    "index": 20,
+                    "text": "Geçtiğimiz bir yıl içindeki gelişmeler, ekonomimizde parasal aktarım mekanizmasının geçmişe kıyasla daha etkin işlemeye başladığını göstermiştir. Faiz dışı bütçe harcamalarında gözlenen artışlar ve güçlü dış talep enflasyondaki düşüş sürecini yavaşlatsa da parasal sıkılaştırmanın gecikmeli etkileriyle enflasyon kontrol altına girmiş ve tekrar hedefe doğru yönelmiştir. Ancak, enflasyonun orta vadede yüzde 4 hedefine erişebilmesi için iç talebin bir süre daha ivmelenmeden ılımlı bir seyir izlemesi gerekmektedir. 2007 yılının ikinci yarısında belirsizlik algılamalarının ortadan kalkması ve uzun vadeli faizlerin düşmeye devam etmesi halinde talep koşullarının enflasyondaki düşüş sürecine verdiği katkı azalabilecektir. Böyle bir riskin gerçekleşme olasılığının güçlenmesi halinde para politikası öngörülenden daha temkinli bir duruş sergileyebilecektir. Ancak, para politikasının temkinli duruşu mali disiplinle desteklendiği taktirde bu riskin gerçekleşme olasılığı düşük olacaktır."
+                },
+                {
+                    "index": 21,
+                    "text": "Uluslararası likidite koşullarındaki olası dalgalanmalar enflasyon görünümüne dair risk unsurları arasındaki yerini korumaktadır. Mevcut durumda gelişmiş ülkelere dair temel göstergelerin yönünün henüz netleşmiş olmaması, piyasaların veri hassasiyetinin devam etmesine neden olmaktadır. Küresel ekonomideki dengelere ilişkin belirsizlik algılamalarının sürmesi uluslararası yatırımcıların portföy tercihlerinde ve likidite akışında ani dalgalanmalara yol açabilecek önemli bir risk unsuru olarak öne çıkmaktadır. Risk algılamalarında önemli bir değişim olması halinde TCMB etkin likidite yönetimiyle olası dalgalanmaların enflasyon görünümü üzerindeki etkilerinin sınırlı kalmasını sağlayacaktır."
+                },
+                {
+                    "index": 22,
+                    "text": "Bu doğrultuda Kurul, likidite düzeyindeki gelişmeleri dikkate alarak açık piyasa işlemlerinde kullanılan mevcut araçların yanı sıra, likidite yönetiminin etkinliğinin artırılması amacıyla gerekli görüldüğünde likidite senetlerinin de kullanılabileceği değerlendirmesinde bulunmuştur."
+                },
+                {
+                    "index": 23,
+                    "text": "Fiyat istikrarının sağlanması açısından para politikasının yanında maliye politikaları ve yapısal reformlar da kuşkusuz büyük önem taşımaktadır. Bu çerçevede Avrupa Birliği’ne uyum ve yakınsama sürecinin devam etmesi ile ekonomik programa ilişkin yapısal reformların hayata geçirilmesi uzun vadeli istikrar açısından önemini korumaktadır. Özellikle mali disiplinin kalitesini artıracak olan yapısal reformlar konusundaki gelişmeler, gerek makroekonomik istikrar gerekse fiyat istikrarı açısından yakından izlenmektedir."
+                }
+            ]
+        }
+    ],
+    "decision": "2007-27",
+    "governor": "Durmuş Yılmaz",
+    "board": [
+        "Erdem Başçı",
+        "Burhan Göklemez",
+        "İbrahim Mustafa Turhan",
+        "Mehmet Yörükoğlu"
+    ],
+    "abstract": "Para Politikası Kurulu (Kurul), Bankamız bünyesindeki Bankalararası Para Piyasası ve İstanbul Menkul Kıymetler Borsası Repo-Ters Repo Pazarı’nda uygulanmakta olan kısa vadeli faiz oranlarının aşağıdaki gibi sabit tutulmasına karar vermiştir: a) Gecelik faiz oranları: Merkez Bankası borçlanma faiz oranı yüzde 17,50, borç verme faiz oranı yüzde 22,50, b) Geç Likidite Penceresi Faiz Oranları: Geç Likidite Penceresi uygulaması çerçevesinde, Bankalararası Para Piyasası’nda saat 16.00-17.00 arası gecelik vadede uygulanan Merkez Bankası borçlanma faiz oranı yüzde 13,50, borç verme faiz oranı yüzde 25,50, c) Açık piyasa işlemleri çerçevesinde piyasa yapıcısı bankalara repo işlemleri yoluyla gecelik ve bir haftalık vadelerde tanınan borçlanma imkanı faiz oranı yüzde 21,50. Enerji ve gıda fiyatlarında, kamu harcamalarında ve dış talepte geçen yılın son çeyreğinden bu yana gözlenmekte olan gelişmeler enflasyondaki düşüş eğilimini sınırlasa da güçlü parasal sıkılaştırmanın gecikmeli etkileriyle iç talep ve enflasyon öngörülen şekilde yavaşlamaktadır. Bu gelişmelerin Nisan ayı Enflasyon Raporu’nda ortaya koyulan görünümle büyük ölçüde uyumlu olması dolayısıyla Rapor’da sunulan para politikası duruşu korunmuştur. Bu doğrultuda, Kurul, kısa vadeli faiz oranlarında öngörülen ölçülü indirim sürecinin yılın son çeyreğinde başlayabileceği değerlendirmesinde bulunmuştur. Bununla birlikte dış talebe, kamu harcamalarına ve orta vadeli enflasyon görünümünü etkileyen diğer değişkenlere dair veri ve bilgi akışı, olası faiz indirimlerinin zamanlamasını ve miktarını etkileyecektir. Ayrıca Kurul; likidite düzeyindeki gelişmeleri dikkate alarak açık piyasa işlemlerinde kullanılan mevcut araçların yanı sıra, likidite yönetiminin etkinliğinin artırılması amacıyla gerekli görüldüğünde likidite senetlerinin de kullanılabileceği değerlendirmesinde bulunmuştur. Enflasyon görünümüne ilişkin açıklanacak her türlü yeni veri ve haberin, Kurul’un geleceğe yönelik duruşunu gözden geçirmesine neden olacağı önemle vurgulanmalıdır. Para Politikası Kurulu Toplantı Özeti sekiz iş günü içinde yayımlanacaktır."
+}

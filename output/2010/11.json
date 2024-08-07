@@ -1,0 +1,93 @@
+{
+    "number": "2010-64",
+    "date": "11 Kasım 2010",
+    "published": "29 Kasım 2010",
+    "topics": [
+        {
+            "title": "Enflasyon Gelişmeleri",
+            "items": [
+                {
+                    "index": 1,
+                    "text": "Ekim ayında tüketici fiyatları yüzde 1,83 oranında artmış ve yıllık enflasyon 0,62 puan azalarak yüzde 8,62 düzeyinde gerçekleşmiştir. Yıllık enflasyondaki bu azalışta geçtiğimiz yılın yüksek bazı etkili olmuştur. İşlenmemiş gıda fiyatlarındaki yüksek oranlı artışlar devam ederken, diğer alt gruplarda enflasyon genelde olumlu bir eğilim sergilemiştir. Hizmet grubu yıllık enflasyonundaki istikrarlı düşüş sürmüş, temel (çekirdek) enflasyon göstergeleri orta vadeli hedeflerle uyumlu seyrini korumuştur."
+                },
+                {
+                    "index": 2,
+                    "text": "Gıda ve alkolsüz içecekler grubu yıllık enflasyonu Ekim ayında 1,75 puan artarak yüzde 17,08’e ulaşmıştır. Böylelikle gıda grubunun yıllık enflasyona katkısı 4,67 puan olmuştur. İşlenmemiş gıda fiyatları sebze fiyatlarında süregelen keskin yükselişlerle Ağustos ve Eylül aylarının ardından Ekim ayında da yüksek bir oranda artış göstermiştir. Özellikle, tarla ürünlerinden sera ürünlerine geçiş aşamasında ürün arzında meydana gelen belirgin azalmanın etkisiyle domates fiyatlarında keskin (yüzde 112 oranında) bir sıçrama gözlenmiştir. Bu artışın Ekim ayı enflasyonuna katkısı 0,85 puan olmuştur. Diğer taraftan, işlenmemiş kırmızı et fiyatlarındaki artış azalarak da olsa devam etmiştir. Sonuç olarak, işlenmemiş gıda grubu yıllık enflasyonu endeks tarihindeki en yüksek seviye olan yüzde 31,28’e yükselmiştir."
+                },
+                {
+                    "index": 3,
+                    "text": "İşlenmiş gıda fiyatlarında ise ekmek ve tahıllar grubunun buğday fiyatlarındaki artışlardan etkilenmeye başladığı görülmektedir. Ayrıca, başta işlenmiş et ürünleri olmak üzere diğer işlenmiş gıda ürünlerinde de fiyat artışlarının son iki ayda hız kazandığı gözlenmektedir. Gerek kırmızı et gerekse buğday fiyatlarındaki birikimli artışlar işlenmiş gıda fiyatları üzerinde maliyet baskısı oluşturmaya devam etmektedir."
+                },
+                {
+                    "index": 4,
+                    "text": "Temel mal ve hizmet gruplarındaki olumlu görünüm sürmektedir. Gıda fiyatlarındaki artışların yemek hizmetleri üzerinde olumsuz etkileri devam etse de, yemek ve ulaştırma hizmetleri dışında kalan hizmet kalemlerinin fiyatları son üç aydır yatay bir seyir izlemektedir. 2009 yılında dayanıklı tüketim mallarında uygulanan geçici vergi ayarlamalarının oluşturduğu baz etkisi Ekim ayı ile birlikte tamamlanmıştır. Böylelikle, temel mal (gıda, enerji, alkollü içecekler, tütün ve altın dışında kalan mallar) fiyatlarının yıllık artış oranı da yüzde 1,25 gibi oldukça düşük bir seviyeye gerilemiştir. Bu gelişmeler sonucunda, temel fiyat göstergelerinin işaret ettiği yıllık enflasyon eğilimi yüzde 2,5-3 seviyelerine inmiştir."
+                },
+                {
+                    "index": 5,
+                    "text": "Kurul, önümüzdeki aylarda işlenmemiş gıda grubu fiyatlarının yıllık artış oranlarında belirgin bir gerileme olmasını beklemektedir. Bunun yanı sıra, 2011 yılının başlarında tütün ürünlerindeki baz etkisinin büyük ölçüde ortadan kalkmasının da katkısıyla, enflasyonda belirgin bir düşüş olacağı tahmin edilmektedir. Temel (çekirdek) enflasyon göstergelerinin ise önümüzdeki dönemde sınırlı yükselişler sergileyebileceği, ancak orta vadeli hedeflerle uyumlu düzeylerde kalacağı öngörülmektedir."
+                }
+            ]
+        },
+        {
+            "title": "Enflasyonu Etkileyen Faktörler",
+            "items": [
+                {
+                    "index": 6,
+                    "text": "Son dönemde açıklanan veriler iç talepteki artışın desteğiyle iktisadi faaliyetin toparlanmaya devam ettiğini göstermektedir. Mevsimsellikten arındırılmış sanayi üretimi üçüncü çeyrekte dönemlik bazda yüzde 1,2 oranında artış kaydederek yılın ilk yarısına kıyasla daha ılımlı bir toparlanma sergilemiştir. Buna karşılık Kurul, özellikle iç talebe yönelik öncü göstergelerin toparlanma hızına dikkat çekerek yılın son çeyreğinde iktisadi faaliyette tekrar bir ivmelenme olacağı değerlendirmesinde bulunmuştur."
+                },
+                {
+                    "index": 7,
+                    "text": "Güven endeksleri ve sipariş göstergeleri iç talepteki toparlanmanın sürdüğüne işaret etmektedir. Eylül ve Ekim ayında iç piyasa kaynaklı olmak üzere gelecek üç aya ilişkin toplam sipariş beklentilerinin güçlendiği görülmektedir. Ayrıca Kurul bu dönemde, tüketici güvenindeki iyileşmenin sürdüğüne ve yatırım eğiliminin güçlenerek daha yüksek bir düzeyde istikrar kazandığına vurgu yaparak, iç talebin son çeyrekte dış talebe kıyasla daha güçlü bir seyir izlemeye devam ettiğinin altını çizmiştir."
+                },
+                {
+                    "index": 8,
+                    "text": "Dış talebe ilişkin belirsizlikler devam etmektedir. İhracatta Ekim ayında da belirgin bir artış gözlenmezken, sipariş göstergeleri kısa vadede güçlü bir canlanmaya işaret etmemektedir. Ayrıca, küresel ekonominin toparlanma hızına ilişkin aşağı yönlü riskler devam etmektedir. Bu çerçevede Kurul, dış talebin zayıf seyri nedeniyle imalat sanayisinde kapasite kullanımının kriz öncesi seviyelerine ulaşmasının zaman alacağını tahmin etmektedir."
+                },
+                {
+                    "index": 9,
+                    "text": "İstihdam koşullarındaki iyileşme devam etmekle beraber işsizlik oranları halen yüksek seviyelerde bulunmaktadır. Yılın üçüncü çeyreğinde tarım dışı istihdamdaki toparlanma kesintiye uğrarken bu gelişmede hizmet sektöründeki yavaşlama öne çıkmaktadır. Kurul üyeleri, işgücü piyasası gelişmelerinin üçüncü çeyrek üretimindeki yavaşlama ile uyumlu olduğuna dikkat çekmiş, iktisadi faaliyetteki toparlanmaya paralel olarak yılın sonuna doğru istihdam artışının tekrar başlayacağı öngörüsünde bulunmuştur. Bununla birlikte Kurul, işsizlik oranlarının bir müddet daha kriz öncesine kıyasla yüksek seviyelerde seyredeceği ve birim iş gücü maliyetleri üzerinde belirgin bir baskı hissedilmeyeceği öngörüsünü yinelemiştir."
+                }
+            ]
+        },
+        {
+            "title": "Para Politikası ve Riskler",
+            "items": [
+                {
+                    "index": 10,
+                    "text": "Kurul, yılın üçüncü çeyreğinde iktisadi faaliyet ve istihdam verilerinde gözlenen zayıf seyrin kalıcı olmayacağını ve son çeyrekte iktisadi faaliyetteki toparlanmanın tekrar hızlanacağını öngörmektedir. Kurul üyelerine göre, özellikle krediler ve iç talep güçlü bir seyir izlemekte, ancak dış talebin zayıf seyri nedeniyle toplam talep koşulları henüz enflasyon üzerinde yukarı yönlü bir baskı oluşturmamaktadır. Bunun yanı sıra Kurul, Ekim ayı itibarıyla yüzde 8,62 olan enflasyonun 5 puanı aşkın kısmının sadece işlenmemiş gıda ve tütün ürünlerindeki fiyat artışlarından kaynaklandığına dikkat çekmiş ve söz konusu kalemlerdeki fiyat artış oranlarının zaman içinde kademeli olarak gerileyeceği beklentisini korumuştur. Dolayısıyla, önümüzdeki dönemde enflasyonun düşüş eğiliminde olacağı, temel (çekirdek) enflasyon göstergelerinin ise orta vadeli hedeflerle uyumlu seyrini sürdüreceği tahmin edilmektedir. Bu değerlendirmeler doğrultusunda Kurul, politika faiz oranının bir süre daha mevcut düzeylerde tutulması ve uzun süre düşük düzeylerde seyretmesi gerektiği yönündeki görüşünü teyid etmiştir."
+                },
+                {
+                    "index": 11,
+                    "text": "Kurul, toplam talep görünümünün politika faizlerinin uzun süre düşük düzeylerde tutulmasını desteklemesine rağmen, talebin kompozisyonunun politika faizi dışındaki araçların aktif kullanımını gerekli kıldığını belirtmiştir. Küresel ekonomideki zayıf görünüm bir yandan dış talepteki toparlanmayı geciktirirken diğer yandan gelişmiş ülkelerin genişletici para politikalarını sürdürmelerine neden olarak sermaye akımlarını hızlandırmakta ve iç talepteki canlanmayı beslemektedir. Artan sermaye girişleri hızlı kredi genişlemesi ve uyarılan ithalat talebi kanalıyla iç ve dış talebin büyüme hızlarındaki ayrışmayı daha da belirginleştirmekte, bu durum cari dengede bozulmaya yol açarak finansal istikrara ilişkin riskleri gündeme getirmektedir. Kurul üyeleri, söz konusu risklerin sınırlanması bakımından, önümüzdeki dönemde zorunlu karşılıklar ve likidite yönetimi gibi ek politika araçlarının daha aktif olarak kullanılabileceğini bir kez daha vurgulamıştır."
+                },
+                {
+                    "index": 12,
+                    "text": "Kurul, Türk lirası piyasası işlemlerinde vadelerin uzamasını teşvik etmek amacıyla, gecelik piyasada oluşan faizlerin politika faizinden, her iki yönde de konjonktürün gerektirdiği ölçüde sapmasına geçici olarak izin verilebileceğini belirtmiştir. Aynı doğrultuda, gecelik borçlanma faizlerinin 400 baz puan daha indirilerek borçlanma faizleri ile borç verme faizleri arasındaki farkın artırılmasına karar verilmiştir. Ayrıca Kurul, kredi koşullarındaki olumlu gelişmeleri göz önüne alarak, çıkış stratejisi kapsamındaki diğer düzenlemelerin de yürürlüğe koyulmasının uygun olacağını ifade etmiştir."
+                },
+                {
+                    "index": 13,
+                    "text": "Emtia fiyatlarının seyri enflasyon görünümü üzerinde risk oluşturmaya devam etmektedir. Kurul üyeleri, özellikle pamuk ve buğday gibi tarımsal emtia ürünlerinin fiyatlarında gözlenen yüksek oranlı artışlara dikkat çekmiştir. Toplam talebin henüz enflasyon üzerinde yukarı yönlü belirgin bir baskı oluşturacak düzeye gelmemiş olması ve Türk lirasının güçlü konumu, tarımsal emtia fiyatlarındaki artışların temel mal ve hizmet fiyatları üzerindeki yansımalarını sınırlamaktadır. Bununla birlikte Kurul, emtia fiyatlarındaki gelişmelerin genel fiyatlama davranışı üzerindeki etkilerinin dikkatle takip edilmesi gerektiğini ifade etmiştir."
+                },
+                {
+                    "index": 14,
+                    "text": "Merkez Bankası, para politikası stratejisini oluştururken maliye politikasına ilişkin gelişmeleri yakından izlemeye devam etmektedir. Mevcut konjonktürde iç ve dış talep arasındaki ayrışmaya bağlı olarak artan cari açığın getirdiği risklerin sınırlanması bakımından kamu tasarruflarının artırılması, dolayısıyla mali disiplinin sürdürülmesi büyük önem taşımaktadır. Kurul üyeleri Orta Vadeli Program (OVP)’ın içerdiği perspektifi, bu yönde atılmış önemli bir adım olarak değerlendirmektedir. Bu çerçevede, Enflasyon Raporu’nda enflasyon ve para politikasının görünümü oluşturulurken maliye politikası için OVP projeksiyonları esas alınmıştır. Bu bağlamda, 2010 yılının kalanında kamu harcamalarında geçici bir hızlanma olacağı, 2011 yılından itibaren ise faiz dışı harcamaların milli gelire oranının kademeli olarak gerileyeceği öngörülmüştür. Kurul, mali duruşun bu çerçeveden belirgin olarak sapması ve bu durumun orta vadeli enflasyon görünümünü olumsuz etkilemesi halinde para politikası duruşunun güncellenmesinin söz konusu olabileceğini tekrar vurgulamıştır."
+                },
+                {
+                    "index": 15,
+                    "text": "Önümüzdeki dönemde para politikası fiyat istikrarının kalıcı olarak tesis edilmesine odaklanmaya devam edecektir. Orta vadede mali disiplinin sürdürüleceğine dair taahhütlerin yerine getirilmesi ve yapısal reform sürecinin güçlendirilmesi, ülkemizin kredi riskindeki göreli iyileşmeye katkıda bulunarak makroekonomik istikrarı ve fiyat istikrarını destekleyecektir. Bu çerçevede, OVP’nin ve Avrupa Birliği’ne uyum ve yakınsama sürecinin gerektirdiği yapısal düzenlemelerin hayata geçirilmesi konusunda atılacak adımlar büyük önem taşımaktadır."
+                }
+            ]
+        }
+    ],
+    "decision": "2010-62",
+    "governor": "Durmuş Yılmaz",
+    "board": [
+        "Erdem Başçı",
+        "Burhan Göklemez",
+        "Turalay Kenç",
+        "İbrahim Mustafa Turhan",
+        "Abdullah Yavaş",
+        "Mehmet Yörükoğlu"
+    ],
+    "abstract": "Para Politikası Kurulu (Kurul), politika faizi olan bir hafta vadeli repo ihale faiz oranı ile Bankamız bünyesindeki Bankalararası Para Piyasası ve İstanbul Menkul Kıymetler Borsası Repo-Ters Repo Pazarı’nda uygulanmakta olan faiz oranlarının aşağıdaki gibi belirlenmesine karar vermiştir: a) Politika faizi olan bir hafta vadeli repo ihale faiz oranı yüzde 7 düzeyinde sabit tutulmuştur. b) Gecelik faiz oranları: Merkez Bankası borçlanma faiz oranı yüzde 5,75’ten yüzde 1,75’e düşürülmüş, borç verme faiz oranı yüzde 8,75 düzeyinde sabit tutulmuştur. Açık piyasa işlemleri çerçevesinde piyasa yapıcısı bankalara repo işlemleri yoluyla tanınan borçlanma imkanı faiz oranı ise yüzde 7,75 düzeyinde sabit tutulmuştur. c) Geç Likidite Penceresi Faiz Oranları: Geç Likidite Penceresi uygulaması çerçevesinde, Bankalararası Para Piyasası’nda saat 16.00-17.00 arası gecelik vadede uygulanan Merkez Bankası borçlanma faiz oranı yüzde 1,75’ten yüzde 0’a düşürülmüş, borç verme faiz oranı yüzde 11,75 düzeyinde sabit tutulmuştur. Son dönemde açıklanan veriler iç talepteki artışın desteğiyle iktisadi faaliyetin toparlanmaya devam ettiğini göstermektedir. Bununla birlikte, dış talebin zayıf seyri nedeniyle imalat sanayinde kapasite kullanımının kriz öncesi seviyelere ulaşmasının zaman alacağı tahmin edilmektedir. İstihdam koşullarındaki iyileşme devam etmekle beraber işsizlik oranları halen yüksek seviyelerde bulunmaktadır. Dolayısıyla, önümüzdeki dönemde enflasyonun düşüş eğiliminde olacağı ve temel (çekirdek) enflasyon göstergelerinin orta vadeli hedeflerle uyumlu seyrini sürdüreceği tahmin edilmektedir. Bu değerlendirmeler doğrultusunda Kurul, politika faiz oranının bir süre daha mevcut düzeylerde tutulması ve uzun süre düşük düzeylerde seyretmesi gerektiği yönündeki görüşünü teyid etmiştir. Son dönemde artan sermaye girişleri iç ve dış talebin büyüme hızlarındaki ayrışmayı belirginleştirmekte, bu durum hızlı kredi genişlemesi ve uyarılan ithalat talebi kanalıyla cari dengede bozulmaya yol açmakta ve finansal istikrara ilişkin riskleri gündeme getirmektedir. Kurul, Türk lirası piyasası işlemlerinde vadelerin uzamasını teşvik etmek amacıyla, gecelik piyasada oluşan faizlerin politika faizinden, her iki yönde de konjonktürün gerektirdiği ölçüde sapmasına geçici olarak izin verilebileceğini belirtmiştir. Bu doğrultuda, gecelik borçlanma faizlerinin 400 baz puan daha indirilerek borçlanma faizleri ile borç verme faizleri arasındaki farkın artırılmasına karar verilmiştir. Ayrıca Kurul, kredi koşullarındaki olumlu gelişmeleri göz önüne alarak, çıkış stratejisi kapsamındaki diğer düzenlemelerin de yürürlüğe koyulmasının uygun olacağını ifade etmiştir. Enflasyon görünümüne ilişkin açıklanacak her türlü yeni verinin ve haberin, Kurul’un geleceğe yönelik duruşunu değiştirmesine neden olabileceği önemle vurgulanmalıdır. Para Politikası Kurulu Toplantı Özeti sekiz iş günü içinde yayımlanacaktır."
+}
