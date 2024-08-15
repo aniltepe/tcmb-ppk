@@ -60,12 +60,25 @@ def correct_encoding(text):
         (r"(\x03)", "ğ")
     ]
 
+    re_grp_6 = [
+        (r"(\s)\x01", "\\1Ş"),
+        (r"([a-zğüşıöçâîû])\x01|\x01([a-zğüşıöçâîû])", "\\1ş\\2"),
+        (r"([a-zğüşıöçâîû])\x02|\x02([a-zğüşıöçâîû])", "\\1ş\\2"),
+        (r"([A-ZĞÜŞİÖÇÂÎÛ])\x02|\x02([A-ZĞÜŞİÖÇÂÎÛ])", "\\1İ\\2"),
+        (r"(\x03)", "ğ"),
+        (r"(\x04)", "İ")
+    ]
+
     for regex in re_grp_1:
         text = re.sub(regex[0], regex[1], text)
 
     if len(re.findall(r"(\x04)", text)) > 0:
-        for regex in re_grp_3:
-            text = re.sub(regex[0], regex[1], text)
+        if text.startswith("Sayı: 2008-07"):
+            for regex in re_grp_6:
+                text = re.sub(regex[0], regex[1], text)
+        else:
+            for regex in re_grp_3:
+                text = re.sub(regex[0], regex[1], text)
     else:
         if text.startswith(" 1Sayı:2007-32"):
             for regex in re_grp_4:
