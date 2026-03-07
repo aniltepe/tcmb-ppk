@@ -1,0 +1,101 @@
+{
+    "number": "2010-33",
+    "date": "17 Haziran 2010",
+    "published": "29 Haziran 2010",
+    "topics": [
+        {
+            "title": "Enflasyon Gelişmeleri",
+            "items": [
+                {
+                    "index": 1,
+                    "text": "Mayıs ayında fiyatlar yüzde 0,36 oranında gerilemiş ve yıllık enflasyon 1,09 puan azalarak yüzde 9,1 olmuştur. Yıllık enflasyondaki bu azalışta Mayıs ayı Para Politikası Kurulu (Kurul) Toplantı Özeti’nde de öngörüldüğü gibi, işlenmemiş gıda fiyatlarındaki keskin düşüş belirleyici olmuştur. Gıda haricinde kalan ana grupların fiyat gelişmeleri de olumlu bir görünüm sergilemiş, temel (çekirdek) enflasyon göstergeleri orta vadeli hedeflerle uyumlu seyrini korumuştur."
+                },
+                {
+                    "index": 2,
+                    "text": "Mayıs ayında gıda grubu fiyatları üzerinde işlenmemiş gıda fiyatlarındaki gelişmeler belirleyici olmuştur. Piyasaya giren ürün miktarının belirgin ölçüde artmasıyla taze sebze fiyatları yüzde 34,6 oranında gerilemiştir. Bunun yanında, kırmızı et ithalatına yönelik yapılan düzenlemenin açıklanmasının ardından et fiyatlarında gözlenen düşüşler gıda fiyatlarını aşağı çeken bir diğer unsur olmuştur. Böylelikle, et fiyatlarının yıllık tüketici enflasyonu üzerindeki doğrudan etkisi Nisan ayındaki 1,9 düzeyinden Mayıs ayı itibarıyla 1,6 puana gerilemiştir. Haziran ayına ilişkin ilk gözlemler, gıda fiyatlarının yıllık artış hızındaki düşüşün devam ettiğine işaret etmektedir."
+                },
+                {
+                    "index": 3,
+                    "text": "Et fiyatlarında yakın dönemde kaydedilen gerilemeye karşın, son bir yıllık birikimli artışların yemek hizmetleri fiyatları üzerindeki olumsuz etkisi sürmüştür. Diğer taraftan, kira yıllık enflasyonunda uzun zamandır süregelen yavaşlama eğilimi korunurken, cep telefonu görüşme ücretlerindeki azalışlar hizmet fiyatlarının yıllık artış hızını sınırlamaya devam etmiştir. Bu görünüm doğrultusunda, mevsimsel etkilerden arındırılmış hizmet fiyatlarının artış hızı yavaşlamaya devam etmiştir."
+                },
+                {
+                    "index": 4,
+                    "text": "Katı yakıt fiyatlarındaki yükselişe karşın uluslararası petrol fiyatlarındaki gerilemelerin etkisiyle enerji fiyatları son iki aydır yatay bir seyir izlemektedir. Bununla birlikte enerji grubunun yıllık enflasyonu bir önceki yıldaki düşük bazın etkisiyle yükselmeye devam etmiştir. Kurul, baz etkisi kaynaklı bu etkilerin Haziran ayında sona ereceğine dikkat çekerken, petrol fiyatlarında belirgin bir yükseliş olmaması halinde yılın ikinci yarısında enerji fiyatları yıllık artış oranının gerileyeceği öngörüsünde bulunmuştur."
+                },
+                {
+                    "index": 5,
+                    "text": "Temel malların (gıda, enerji, alkollü içecekler, tütün ve altın dışında kalan mallar) yıllık fiyat artış oranı yüzde 4,84’e gerilemiştir. Gerek emtia fiyatlarındaki gevşeme, gerekse Euro’nun değer kaybı temel malların yıllık enflasyonundaki düşüşü destekler niteliktedir. Bu gelişmelerin de etkisiyle, temel enflasyon göstergeleri ılımlı bir seyir izlemektedir. Geçtiğimiz yıl uygulanan geçici vergi indirimleri bu yılın Mart ve Nisan aylarında temel mallar yıllık enflasyonu üzerinde yukarı yönlü etkide bulunmuştur. Haziran, Temmuz ve Ekim aylarında söz konusu baz etkilerinin tersine dönerek temel enflasyon göstergelerini olumlu yönde etkileyeceği not edilmelidir."
+                }
+            ]
+        },
+        {
+            "title": "Enflasyonu Etkileyen Unsurlar",
+            "items": [
+                {
+                    "index": 6,
+                    "text": "Son dönemde açıklanan veriler iktisadi faaliyetteki toparlanma sürecinin devam ettiğini göstermektedir. Nisan ayında sanayi üretimi mevsimsellikten arındırılmış verilerle bir önceki aya göre yüzde 0,8 oranında artış kaydederken, bir önceki çeyrek ortalamasının yüzde 2 üzerinde gerçekleşmiştir. Mayıs ayına ilişkin göstergeler iktisadi faaliyetteki toparlanmanın yavaşlayarak sürdüğüne işaret etmiştir. Bununla birlikte Kurul, üretimin hâlen kriz öncesi düzeyinin altında seyrettiğinin altını çizmiştir."
+                },
+                {
+                    "index": 7,
+                    "text": "İç talep göreli olarak istikrarlı bir artış sergilemektedir. Kurul üyeleri üretimdeki toparlanma sürecinin daha çok yurt içi talebe yönelik sektörlerden kaynaklandığına dikkat çekmiştir. Üretim ve ithalat verileri özel tüketim talebindeki ılımlı toparlanma eğiliminin yılın ikinci çeyreğinde de sürdüğüne işaret etmektedir. Tüketici güven endeksleri ve iç piyasa siparişlerine ilişkin göstergeler bu görünümü teyid etmektedir. İş gücü piyasasındaki yavaş fakat istikrarlı iyileşme eğilimi ile kredi piyasasındaki olumlu gelişmeler de özel tüketim talebindeki toparlanmayı desteklemektedir."
+                },
+                {
+                    "index": 8,
+                    "text": "Yatırım talebindeki toparlanma sürmekte, ancak yatırımlar hâlen kriz öncesi döneme kıyasla düşük düzeylerde seyretmektedir. Taşıt hariç sermaye malları üretimindeki artış devam ederken, sermaye malları ithalatındaki artış eğilimi de sürmektedir. Kurul, yurt içi talepteki artış eğiliminin ve ticari kredi faiz oranlarının düşük seviyelerinin yatırımlardaki toparlanmayı desteklemeye devam edeceği öngörüsünde bulunmuştur. Buna karşılık, Avrupa ekonomilerindeki sorunların artmasını takiben sipariş ve güven göstergelerinde Mayıs ve Haziran aylarında sınırlı da olsa düşüşler gözlendiğine dikkat çeken Kurul, iç talepteki toparlanma hızına ilişkin aşağı yönlü risklerin göz ardı edilmemesi gerektiğini belirtmiştir."
+                },
+                {
+                    "index": 9,
+                    "text": "Dış talebe ilişkin belirsizlikler giderek artmaktadır. Mevsimsellikten arındırılmış verilerle altın hariç ihracat miktar endeksindeki kademeli toparlanma eğilimi Nisan ayında da sürerken, son döneme ilişkin anket göstergeleri ihracat siparişlerinde yavaşlama sinyali vermektedir. Birçok Avrupa ülkesinde bütçe dengelerini düzeltmeye yönelik olarak kamu harcamalarında ciddi kısıntılar öngören önlem paketlerinin yürürlüğe koyulması, Euro bölgesinin orta vadeli büyüme görünümünde son dönemde aşağı yönlü güncellemeler yapılmasına neden olmaktadır. Bu çerçevede, dış talepteki toparlanmanın yavaş ve kademeli olacağı, imalat sanayisinde kapasite kullanımının kriz öncesi seviyelere ulaşmasının zaman alacağı tahmin edilmektedir."
+                },
+                {
+                    "index": 10,
+                    "text": "İstihdam koşullarındaki iyileşme devam etmekle birlikte, işsizlik oranları halen yüksek seviyelerde bulunmaktadır. Mart dönemine ilişkin mevsimsellikten arındırılmış veriler tarım-dışı istihdamdaki toparlanma eğiliminin sürdüğünü göstermektedir. Dış talepteki zayıf seyir sanayi istihdamını sınırlamaya devam ederken, inşaat ve hizmet sektörlerindeki olumlu seyrin desteğiyle tarım-dışı istihdamdaki artış sürmektedir. Buna rağmen Kurul, işsizlik oranlarının yüksek seyretmesi nedeniyle birim işgücü maliyetleri üzerinde belirgin bir baskı hissedilmeyeceği yönündeki değerlendirmesini korumuştur."
+                }
+            ]
+        },
+        {
+            "title": "Para Politikası ve Riskler",
+            "items": [
+                {
+                    "index": 11,
+                    "text": "Kurul, işlenmemiş gıda fiyatlarındaki düşüşün ve emtia fiyatlarındaki gevşemenin etkisiyle enflasyonun Nisan Enflasyon Raporu’nda öngörülenden daha olumlu bir görünüm arz ettiğine ve bu durumun enflasyon beklentilerini de olumlu yönde etkilediğine dikkat çekmiştir. İşlenmemiş gıda fiyatlarının yıllık enflasyonundaki azalışın Haziran ayında da sürmesi beklenmektedir. Kurul üyeleri, meyve ve sebze fiyatlarındaki düşüşlerin bir kısmının yaz mahsulünün erken çıkmasıyla oluşan geçici ürün bolluğunu yansıttığını, et fiyatlarındaki düşüşün ise daha kalıcı bir nitelik taşıdığını ifade etmiştir. Bu gelişmenin yanı sıra petrol fiyatlarının da Enflasyon Raporu’nda belirtilen varsayımların altında seyretmesi, kısa dönemde enflasyon tahminlerinin aşağı yönlü güncellenmesini beraberinde getirmektedir."
+                },
+                {
+                    "index": 12,
+                    "text": "Kurul üyeleri, enflasyondaki olumlu görünümün sadece gıda ve enerji fiyatları ile sınırlı kalmadığına işaret ederek bu kalemleri dışlayan temel mal ve hizmet fiyatlarının artış hızının da yakın dönemde yavaşladığı değerlendirmesinde bulunmuştur. Maliyet ve talep koşullarındaki gelişmeler göz önüne alındığında, önümüzdeki dönemde temel (çekirdek) enflasyon göstergelerinin yıl sonu hedefinin altında ve orta vadeli hedeflerle uyumlu seyretmeye devam edeceği belirtilmiştir."
+                },
+                {
+                    "index": 13,
+                    "text": "Kurul, dengeleyici para ve maliye politikalarının iç talep kanalıyla iktisadi faaliyetteki toparlanmayı desteklemeye devam ettiği değerlendirmesinde bulunmuştur. Nitekim, son dönemde açıklanan veriler ağırlıklı olarak iç piyasaya üretim yapan sektörlerdeki üretim artışlarının devam ettiğini göstermektedir. Kredi piyasasındaki gelişmeler de benzer bir görünüme işaret etmektedir. Gerek ticari kredi faizleri ile mevduat faizleri arasındaki farkın düşük düzeylere inmesi gerekse küçük ve orta ölçekli işletmelere açılan kredilerin yılbaşından itibaren toparlanma eğilimini sürdürmesi, kredi koşullarının giderek düzelmekte olduğunu göstermektedir."
+                },
+                {
+                    "index": 14,
+                    "text": "Kurul, iç talebin görece istikrarlı seyrine rağmen son dönemde iktisadi faaliyetteki toparlanmanın hızına ilişkin belirsizliklerin arttığı değerlendirmesinde bulunmuştur. Yunanistan başta olmak üzere birçok Avrupa ülkesinde kamu borçlarının sürdürülebilirliğine dair kaygıların artması özellikle en büyük dış ticaret pazarımız olan Avrupa bölgesindeki toparlanmaya dair aşağı yönlü riskleri artırmaktadır. Bu süreçte Euro’nun belirgin olarak değer kaybetmesi dış pazarlarda rekabet gücünü olumsuz etkileyebilecek bir unsur olarak öne çıkmaktadır. Ayrıca, bütün bu gelişmeler, beklenti kanalıyla iç talebi de olumsuz etkileme potansiyeli taşımaktadır. Nitekim, Haziran ayına ilişkin öncü veriler reel kesim ve tüketici güveninde sınırlı da olsa düşüşlere işaret etmektedir. Kurul üyeleri, bu aşamada para politikasının duruşunu değiştirmek için erken olduğunu düşünmekle beraber, önümüzdeki dönemde küresel ekonomiye ilişkin sorunların yurt içi iktisadi faaliyet üzerindeki etkilerinin dikkatle takip edilmesi gerektiğini vurgulamıştır."
+                },
+                {
+                    "index": 15,
+                    "text": "Bu değerlendirmeler doğrultusunda Kurul, politika faiz oranlarının bir süre daha mevcut düzeylerde tutulması ve uzun süre düşük düzeylerde seyretmesi gerekebileceğini teyid etmiştir."
+                },
+                {
+                    "index": 16,
+                    "text": "Kurul, para politikası stratejisini oluştururken maliye politikasına ilişkin gelişmeleri yakından takip etmeye devam etmektedir. Kurul üyeleri, 2011 yılından itibaren hayata geçirilecek olan mali kuralın, öngörüldüğü şekilde kararlılıkla uygulanması durumunda, risk priminin düşmesine katkıda bulunacağı ve kamu borçlanma maliyetini azaltarak para politikasının etkinliğini destekleyeceği değerlendirmesinde bulunmuştur. 2009 yılının ikinci yarısından itibaren iktisadi faaliyetteki canlanmanın Orta Vadeli Program (OVP)’da öngörülenden daha güçlü olması, bütçe gelirlerinin tahmin edilenin belirgin olarak üzerinde gerçekleşmesini sağlamaktadır. Büyük ölçüde konjonktürel etkilerle ortaya çıkan bu gelir artışının mali kuralda da öngörüldüğü biçimde ağırlıklı olarak kamu borcunun azaltılmasında kullanılması, gerek toplam talep yönetimini etkinleştirmesi gerekse dolaylı vergilerdeki artış gereksinimini azaltması bakımından Merkez Bankası’nın dengeleyici para politikası izleme esnekliğini artıracaktır."
+                },
+                {
+                    "index": 17,
+                    "text": "Önümüzdeki dönemde para politikası fiyat istikrarının kalıcı olarak tesis edilmesine odaklanmaya devam edecektir. Orta vadede mali disiplinin sürdürüleceğine dair taahhütlerin yerine getirilmesi ve yapısal reform sürecinin güçlendirilmesi, ülkemizin kredi riskindeki göreli iyileşmeye katkıda bulunarak makroekonomik istikrar ve fiyat istikrarını destekleyecektir. Bu çerçevede, Orta Vadeli Program’ın ve Avrupa Birliği’ne uyum ve yakınsama sürecinin gerektirdiği yapısal düzenlemelerin hayata geçirilmesi konusunda atılacak adımlar büyük önem taşımaktadır."
+                }
+            ]
+        }
+    ],
+    "decision": "2010-31",
+    "governor": "Durmuş Yılmaz",
+    "board": [
+        "Erdem Başçı",
+        "Burhan Göklemez",
+        "Turalay Kenç",
+        "İbrahim Mustafa Turhan",
+        "Abdullah Yavaş",
+        "Mehmet Yörükoğlu"
+    ],
+    "abstract": "Para Politikası Kurulu (Kurul), politika faizi olan bir hafta vadeli repo ihale faiz oranı ile Bankamız bünyesindeki Bankalararası Para Piyasası ve İstanbul Menkul Kıymetler Borsası Repo-Ters Repo Pazarı’nda uygulanmakta olan gecelik faiz oranlarının aşağıdaki gibi sabit tutulmasına karar vermiştir: a) Politika faizi olan bir hafta vadeli repo ihale faiz oranı yüzde 7, b) Gecelik faiz oranları: Merkez Bankası borçlanma faiz oranı yüzde 6,50, borç verme faiz oranı yüzde 9, c) Geç Likidite Penceresi Faiz Oranları: Geç Likidite Penceresi uygulaması çerçevesinde, Bankalararası Para Piyasası’nda saat 16.00-17.00 arası gecelik vadede uygulanan Merkez Bankası borçlanma faiz oranı yüzde 2,50, borç verme faiz oranı yüzde 12, d) Açık piyasa işlemleri çerçevesinde piyasa yapıcısı bankalara repo işlemleri yoluyla gecelik ve bir haftalık vadelerde tanınan borçlanma imkanı faiz oranı yüzde 8. Son dönemde açıklanan veriler iktisadi faaliyetteki toparlanmanın devam ettiğini göstermektedir. İç talep göreli olarak istikrarlı bir artış sergilerken dış talebe ilişkin belirsizlikler giderek artmaktadır. Bu çerçevede, imalat sanayinde kapasite kullanımının kriz öncesi seviyelere ulaşmasının zaman alacağı tahmin edilmektedir. İstihdam koşullarındaki iyileşme devam etmekle beraber işsizlik oranları halen yüksek seviyelerde bulunmaktadır. Kurul, temel (çekirdek) enflasyon göstergelerinin yıl sonu hedefinin altında ve orta vadeli hedeflerle uyumlu seyretmeye devam edeceğini belirtmiştir. Ayrıca, işlenmemiş gıda fiyatlarındaki düşüşün ve emtia fiyatlarındaki gevşemenin etkisiyle enflasyonun Nisan Enflasyon Raporu’nda öngörülenden daha olumlu bir görünüm arz ettiğine ve bu durumun enflasyon beklentilerini de olumlu yönde etkilediğine dikkat çekilmiştir. Bu gelişmeler doğrultusunda Kurul, politika faiz oranlarının bir süre daha mevcut düzeylerde tutulması ve uzun süre düşük düzeylerde seyretmesi gerekebileceğini teyid etmiştir. Enflasyon görünümüne ilişkin açıklanacak her türlü yeni verinin ve haberin, Kurul’un geleceğe yönelik duruşunu değiştirmesine neden olabileceği önemle vurgulanmalıdır. Para Politikası Kurulu Toplantı Özeti sekiz iş günü içinde yayımlanacaktır."
+}

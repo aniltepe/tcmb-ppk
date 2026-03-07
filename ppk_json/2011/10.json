@@ -1,0 +1,84 @@
+{
+    "number": "2011-61",
+    "date": "20 Eylül 2011",
+    "published": "27 Eylül 2011",
+    "topics": [
+        {
+            "title": "Enflasyon Gelişmeleri",
+            "items": [
+                {
+                    "index": 1,
+                    "text": "Ağustos ayında tüketici fiyatları yüzde 0,73 oranında artarken, yıllık enflasyon yüzde 6,65’e yükselmiştir. Döviz kuru gelişmelerinin temel mal fiyatları üzerindeki yansımalarına bağlı olarak temel enflasyon göstergeleri de yükseliş göstermiştir. Öte yandan, hizmet fiyatları ılımlı seyrini korumuştur."
+                },
+                {
+                    "index": 2,
+                    "text": "Gıda ve alkolsüz içecekler grubunda yıllık enflasyon yüzde 6’ya gerilemiştir. İşlenmemiş gıda fiyatları, sebze ve et fiyatlarındaki artışla yükselirken, bu grupta yıllık enflasyon baz etkisi ile yüzde 2,98’e gerilemiştir. İşlenmiş gıda grubunda ise ekmek ve tahıllar ile katı ve sıvı yağlar başta olmak üzere, alt gruplar genelinde fiyat artışlarının sürdüğü görülmektedir. Böylelikle grup yıllık enflasyonu son dönemdeki artış eğilimini korumuş ve yüzde 8,59’a yükselmiştir."
+                },
+                {
+                    "index": 3,
+                    "text": "Hizmet fiyatları Ağustos ayında yüzde 0,39 oranında artarken, yıllık hizmet enflasyonu yüzde 5,68’e yükselmiştir. Akaryakıt fiyatlarının yansımalarıyla ulaştırma hizmetleri fiyatlarındaki artış devam etmiştir. İşlenmiş gıda fiyatlarındaki artışın yemek hizmetleri fiyatları üzerindeki etkisi sürmüştür. Kiralar ise ılımlı eğilimini korumuştur. Sonuç olarak, döviz kurundaki gelişmelerin hizmet fiyatlarına yansımaları bu dönemde ulaştırma hizmetleri ile sınırlı kalmış ve grup fiyatlarının ana eğiliminde belirgin bir değişim gözlenmemiştir."
+                },
+                {
+                    "index": 4,
+                    "text": "Temel mal grubunda yıllık enflasyon, Türk lirasındaki değer kaybının etkileri neticesinde yüzde 6,76’ya yükselmiştir. Bu artışta, özellikle otomobil ve mobilya gibi dayanıklı mal fiyat gelişmeleri önemli rol oynamıştır. Giyim grubunda ise yıllık enflasyon artış eğilimini korumuştur. Tekstil ve hazır giyim ithalatında alınan koruma önlemlerine bağlı olarak yılın son çeyreğinde giyim fiyatlarında ivmelenme gözlenmesi beklenmektedir."
+                }
+            ]
+        },
+        {
+            "title": "Enflasyonu Etkileyen Unsurlar",
+            "items": [
+                {
+                    "index": 5,
+                    "text": "İkinci çeyreğe ilişkin milli gelir verileri Temmuz Enflasyon Raporu’nda ortaya koyulan görünüme kıyasla daha olumlu gerçekleşmiştir. İktisadi faaliyet beklendiği şekilde bir önceki çeyreğe kıyasla ivme kaybetmiş, ancak yurt içi talepteki yavaşlama beklenenden daha sınırlı olmuştur. Öte yandan, ithalattaki hızlı düşüş neticesinde net ihracatın dönemlik büyümeye katkısı öngörüldüğü şekilde pozitif olmuştur."
+                },
+                {
+                    "index": 6,
+                    "text": "Son dönemde açıklanan veriler yılın ikinci yarısında iktisadi faaliyetin büyüme hızında kayda değer bir düşüş olacağına işaret etmektedir. Mevsimsellikten arındırılmış sanayi üretimi beş ay üst üste azaldıktan sonra Temmuz ayında toparlanmıştır. Kurul, Temmuz ayında gözlenen artışın küresel sorunların derinleştiği son döneme ait eğilimleri yansıtmadığını not etmiştir. Nitekim, üretim ve siparişlere dair öncü göstergeler Ağustos ayından itibaren iktisadi faaliyetteki yavaşlamanın daha belirgin hale geleceğine işaret etmektedir. Kapasite kullanım oranının Temmuz-Ağustos dönemi itibarıyla ikinci çeyrek ortalamasına kıyasla düşüş eğilimini sürdürmesi de imalât sanayi faaliyetindeki yavaşlamanın sürdüğünü göstermektedir."
+                },
+                {
+                    "index": 7,
+                    "text": "Dış talep zayıf seyrini korumaktadır. Yakın dönemde ABD ve euro bölgesine yönelik büyüme tahminlerinin aşağı yönlü güncellenmesi küresel ekonomiye dair giderek olumsuzlaşan bir görünüme işaret etmektedir. Kurul, dış dünya büyümesine ilişkin belirsizliklerin giderek arttığını belirterek, döviz kuru hareketlerinin sağladığı rekabet avantajına rağmen küresel sorunların dış talebi sınırlamaya devam edeceğini ifade etmiştir."
+                },
+                {
+                    "index": 8,
+                    "text": "Yurt içi nihai talepteki yavaşlama eğilimi sürmektedir. Türk lirasındaki değer kaybına paralel olarak başta araç satışları olmak üzere dayanıklı mal grubuna yönelik talebin zayıflamaya devam etmesi beklenmektedir. Tüketici güvenindeki zayıf seyir bu görünümü desteklemektedir. Düşen kapasite kullanım oranları ve artan talep belirsizliği yatırımlar üzerinde aşağı yönlü risk oluşturmaktadır. Bütün bu gelişmeler, yurt içi talepteki yavaşlamanın devam edeceği yönünde sinyal vermektedir."
+                },
+                {
+                    "index": 9,
+                    "text": "Mayıs döneminde istihdamdaki ivme kaybının etkisiyle artan mevsimsel etkilerden arındırılmış işsizlik oranları, Haziran döneminde yatay seyretmiştir. Söz konusu dönemlerde, hizmet ve inşaat sektörlerinde istihdam artarken sanayi sektöründe beklentiler doğrultusunda gerilemiştir. Öncü göstergeler sanayi istihdamındaki yavaşlamanın süreceğine işaret etmektedir."
+                }
+            ]
+        },
+        {
+            "title": "Para Politikası ve Riskler",
+            "items": [
+                {
+                    "index": 10,
+                    "text": "Kurul, döviz kuru hareketleri nedeniyle kısa vadede temel (çekirdek) enflasyon göstergelerindeki yükselişin sürebileceğini hatırlatmıştır. Döviz kurundan yurt içi fiyatlara geçiş etkisinin kısa bir süre daha özellikle temel mal grubu fiyatları üzerinde etkili olabileceği ifade edilmiştir. Kurul, enflasyonun Eylül ayında işlenmemiş gıda fiyatlarından kaynaklanan baz etkisiyle düşeceğine, ancak döviz kurunun gecikmeli etkilerine bağlı olarak 2011 yılsonunda hedefin belirgin olarak üzerinde kalabileceğine dikkat çekmiştir. Bununla birlikte, iktisadi faaliyetteki yavaşlamaya bağlı olarak döviz kurundan kaynaklanan fiyat hareketlerinin ikincil etkilerinin sınırlı kalması ve enflasyondaki yükselişin geçici olması beklenmektedir. Dolayısıyla Kurul, 2012 yılsonu için enflasyon görünümünün yüzde 5 hedefi ile uyumlu olduğu değerlendirmesinde bulunmuştur."
+                },
+                {
+                    "index": 11,
+                    "text": "Gerek kredilerde ve yurt içi talepte gözlenen yavaşlama gerekse döviz kuru hareketleri iç ve dış talebin dengelenmesine katkıda bulunmaktadır. Yılın üçüncü çeyreğine dair veriler, toplam talebin bileşenlerinin arzu edilen doğrultuda ilerlediğine işaret etmektedir. İç talep ivme kaybetmeye devam etmekte, ithalatta kayda değer bir yavaşlama gözlenmektedir. Bu çerçevede Kurul, önümüzdeki dönemde cari işlemler dengesinde belirgin bir iyileşme olacağını tahmin etmektedir. Bununla birlikte Kurul üyeleri, orta ve uzun vadede cari işlemler dengesinin kalıcı olarak makul düzeylerde tutulabilmesi için verimliliği ve tasarrufları artırıcı yapısal düzenlemelerin önemine dikkat çekmiştir."
+                },
+                {
+                    "index": 12,
+                    "text": "Son dönemde gerek küresel iktisadi faaliyete dair açıklanan verilerin giderek zayıflayan bir görünüme işaret etmesi gerekse Avrupa’da kamu borcunun sürdürülebilirliğine ilişkin kaygıların artması, risk iştahında hızlı bir bozulmayı beraberinde getirmiştir. Küresel ekonomiye dair belirsizlikler dikkate alındığında, gelişmelerin yakından izlenmesinin ve gerekli politika tedbirlerinin gecikmeksizin alınmasının önemi artmıştır. Kurul üyeleri, 4 Ağustos 2011 tarihinde yapılan ara toplantıda alınan kararlarla, küresel ekonomiden kaynaklanabilecek olası bir finansal çalkantı durumunda piyasaya ihtiyacı olan likiditenin zamanında, kontrollü ve etkili bir şekilde sağlanabilmesi için gerekli altyapının hazırlanmış olduğunu hatırlatmıştır. Bu çerçevede, önümüzdeki dönemde de gelişmelerin çok yakından takip edileceği ve gerekirse bir sonraki toplantı beklenmeden ilave tedbirlerin alınabileceği belirtilmiştir. Ayrıca Kurul, Temmuz Enflasyon Raporundaki risk senaryolarına atıfta bulunarak, önümüzdeki dönemde küresel ekonomideki sorunların daha da derinleşmesi ve yurt içi iktisadi faaliyetteki yavaşlamanın belirginleşmesi halinde bütün politika araçlarının genişletici yönde kullanılmasının söz konusu olabileceğini tekrar vurgulamıştır."
+                },
+                {
+                    "index": 13,
+                    "text": "Para politikası fiyat istikrarının kalıcı olarak tesis edilmesine odaklanmaya ve finansal istikrarı gözetmeye devam edecektir. Bu süreçte Merkez Bankası ve diğer kurumlarca finansal istikrara yönelik alınan önlemlerin enflasyon görünümü üzerindeki etkileri de dikkatle değerlendirilecektir. Orta vadede mali disiplinin sürdürüleceğine dair taahhütlerin yerine getirilmesi ve yapısal reform sürecinin güçlendirilmesi, ülkemizin kredi riskindeki göreli iyileşmeye katkıda bulunarak makroekonomik istikrarı ve fiyat istikrarını destekleyecektir. Mali disiplinin devamı aynı zamanda para politikasının hareket alanını genişletecek ve faizlerin düşük düzeylerde kalıcı olmasını sağlayarak toplumsal refahı destekleyecektir. Yeni Orta Vadeli Program’ın bu doğrultuda hazırlanması ve Avrupa Birliği müktesebatının gerektirdiği yapısal düzenlemelerin devamı büyük önem taşımaktadır."
+                }
+            ]
+        }
+    ],
+    "decision": "2011-58",
+    "governor": "Erdem Başçı",
+    "board": [
+        "Turalay Kenç",
+        "Necati Şahin",
+        "İbrahim Mustafa Turhan",
+        "Abdullah Yavaş",
+        "Mehmet Yörükoğlu"
+    ],
+    "abstract": "Para Politikası Kurulu (Kurul), politika faizi olan bir hafta vadeli repo ihale faiz oranı ile Bankamız bünyesindeki Bankalararası Para Piyasası ve İstanbul Menkul Kıymetler Borsası Repo-Ters Repo Pazarı’nda uygulanmakta olan faiz oranlarının aşağıdaki gibi sabit tutulmasına karar vermiştir: a) Politika faizi olan bir hafta vadeli repo ihale faiz oranı yüzde 5,75, b) Gecelik faiz oranları: Merkez Bankası borçlanma faiz oranı yüzde 5, borç verme faiz oranı yüzde 9, açık piyasa işlemleri çerçevesinde piyasa yapıcısı bankalara repo işlemleri yoluyla tanınan borçlanma imkanı faiz oranı yüzde 8, c) Geç Likidite Penceresi Faiz Oranları: Geç Likidite Penceresi uygulaması çerçevesinde, Bankalararası Para Piyasası’nda saat 16.00-17.00 arası gecelik vadede uygulanan Merkez Bankası borçlanma faiz oranı yüzde 0, borç verme faiz oranı yüzde 12. Son dönemde açıklanan veriler yılın ikinci yarısında iktisadi faaliyetin büyüme hızında kayda değer bir düşüş olacağına işaret etmektedir. Dış talep zayıf seyrini korurken yurt içi nihai talepteki yavaşlama eğilimi sürmektedir. Gerek kredilerde ve yurt içi talepte gözlenen yavaşlama gerekse döviz kuru hareketleri iç ve dış talebin dengelenmesine katkıda bulunmaktadır. Bu çerçevede Kurul, önümüzdeki dönemde cari işlemler dengesinde belirgin bir iyileşme olacağını tahmin etmektedir. Kurul, döviz kuru hareketleri nedeniyle kısa vadede temel (çekirdek) enflasyon göstergelerindeki yükselişin sürebileceğini hatırlatmıştır. Bununla birlikte, iktisadi faaliyetteki yavaşlamaya bağlı olarak döviz kurundan kaynaklanan fiyat hareketlerinin ikincil etkilerinin sınırlı kalması ve enflasyondaki yükselişin geçici olması beklenmektedir. Dolayısıyla Kurul, 2012 yıl sonu için enflasyon görünümünün yüzde 5 hedefi ile uyumlu olduğu değerlendirmesinde bulunmuştur. Küresel ekonomiye dair belirsizlikler dikkate alındığında, gelişmelerin yakından izlenmesinin ve gerekli politika tedbirlerinin gecikmeksizin alınmasının önemi artmıştır. Bu çerçevede Kurul, önümüzdeki dönemde küresel ekonomideki sorunların daha da derinleşmesi ve yurt içi iktisadi faaliyetteki yavaşlamanın belirginleşmesi halinde bütün politika araçlarının genişletici yönde kullanılmasının söz konusu olabileceğini tekrar vurgulamıştır. Açıklanacak her türlü yeni verinin ve haberin, Kurul’un geleceğe yönelik politika duruşunu değiştirmesine neden olabileceği önemle vurgulanmalıdır. Para Politikası Kurulu Toplantı Özeti beş iş günü içinde yayımlanacaktır."
+}

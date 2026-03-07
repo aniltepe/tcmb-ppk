@@ -1,0 +1,112 @@
+{
+    "number": "2017-07",
+    "date": "24 Ocak 2017",
+    "published": "31 Ocak 2017",
+    "topics": [
+        {
+            "title": "Enflasyon Gelişmeleri",
+            "items": [
+                {
+                    "index": 1,
+                    "text": "Aralık ayında tüketici fiyatları yüzde 1,64 oranında artmış ve yıllık enflasyon 1,53 puanlık yükselişle yüzde 8,53 olmuştur. Aralık ayı ’nde ifade edildiği gibi, bu dönemde gıda yıllık enflasyonu işlenmemiş gıda kaynaklı olarak yükselmiş, enerji enflasyonundaki artış döviz kuru ve petrol fiyatlarındaki görünüme bağlı olarak sürmüştür. Bunun yanında, başta tütün ürünlerine yönelik olmak üzere, son dönemde yapılan vergi ayarlamaları da enflasyon üzerinde belirgin bir yukarı yönlü etki yapmıştır. Bu dönemde Türk lirasındaki değer kaybının etkisiyle çekirdek enflasyon göstergelerinin yıllık enflasyonu ve ana eğilimi yükselmiştir."
+                },
+                {
+                    "index": 2,
+                    "text": "Gıda ve alkolsüz içecekler grubu yıllık enflasyonu Aralık ayında 2,10 puan artarak yüzde 5,65’e yükselmiştir. Bu gelişmede olumsuz hava koşulları ve döviz kuru gelişmelerine istinaden kayda değer bir oranda yükselen işlenmemiş gıda fiyatları etkili olmuştur. İşlenmiş gıda grubu yıllık enflasyonu ise yataya yakın seyretmiştir. Ocak ayına ilişkin öncü göstergeler, gıda yıllık enflasyonunun işlenmemiş gıdaya bağlı olarak artmaya devam edeceğine işaret etmektedir. Enerji fiyatları Aralık ayında yüzde 2,15 oranında artmış, petrol fiyatlarındaki belirgin yükseliş ve Türk lirasında gözlenen değer kaybının etkisiyle grup geneline yayılan fiyat artışları gözlenmiştir. Böylelikle enerji grubu yıllık enflasyonu son dört ayda 5,70 puan artarak yüzde 8,67’ye ulaşmıştır. Öncü göstergeler enerji grubu enflasyonundaki artış eğiliminin, döviz kuru gelişmelerine bağlı olarak Ocak ayında da sürdüğüne işaret etmektedir."
+                },
+                {
+                    "index": 3,
+                    "text": "Aralık ayında hizmet fiyatları yüzde 0,38 oranında artmış, grup yıllık enflasyonu 0,17 puan yükselerek yüzde 8,11 olmuştur. Bu dönemde yıllık enflasyon ulaştırma hizmetlerinde azalmış, haberleşmede yatay seyretmiş, diğer alt gruplarda ise artmıştır. Hizmet fiyatları üzerinde yurt içi talep ve turizm sektöründeki yavaşlamanın etkileri gözlenirken belirli gruplarda Türk lirasındaki değer kaybının yansımaları da izlenmiştir."
+                },
+                {
+                    "index": 4,
+                    "text": "Temel mal grubu yıllık enflasyonu Aralık ayında 0,84 puan artarak yüzde 6,77 olmuştur. Bu dönemde yıllık enflasyon giyim grubunda azalırken diğer alt gruplarda artmıştır. Dayanıklı mal grubunda başta beyaz eşya olmak üzere tüm alt gruplarda belirgin fiyat artışları gözlenmiştir. Bu dönemde otomobil fiyatları üzerinde döviz kuru yanında ÖTV artışının da etkileri izlenmiştir. Aralık ayı, yurt içi talep koşullarının sınırlayıcı etkisine rağmen Türk lirasındaki değer kayıplarının temel mal fiyatlarında belirgin olarak hissedildiği bir dönem olmuştur."
+                },
+                {
+                    "index": 5,
+                    "text": "Toplam talep koşullarının düşüş yönlü katkısına rağmen, döviz kuru gelişmelerinin gecikmeli etkisi ve işlenmemiş gıda fiyatlarındaki oynaklık nedeniyle kısa vadede enflasyondaki belirgin yükselişin devam edebileceği öngörülmektedir."
+                }
+            ]
+        },
+        {
+            "title": "Enflasyonu Etkileyen Unsurlar",
+            "items": [
+                {
+                    "index": 6,
+                    "text": "Son dönemde açıklanan veriler iktisadi faaliyetin yılın üçüncü çeyreğinde ivme kaybettikten sonra dördüncü çeyreğinde kısmi bir toparlanma sergilediğine işaret etmektedir. Kasım ayında sanayi üretimi, ihracatçı sektörlerin üretiminde gözlenen ılımlı artışa karşın iç talebe görece daha duyarlı sektörlerdeki yavaşlamanın etkisiyle yatay seyretmiştir. Elektrik ve taşıt üretimi ile ihracat verileri sanayi üretiminin Aralık ayında ılımlı bir artış kaydedebileceğine işaret etmektedir. Böylece, çalışılamayan günlerin oluşturduğu baz etkisinin de katkısıyla son çeyrekte sanayi üretiminde dönemlik bazda kayda değer bir artış beklenmektedir. Ancak, iş günü etkilerinin neden olduğu teknik toparlanmanın ötesinde faaliyetteki iyileşmenin ılımlı seyrettiği ve sektörler geneline yayılmadığı gözlenmektedir."
+                },
+                {
+                    "index": 7,
+                    "text": "Mevcut veriler yılın son çeyreğinde dış talebin iç talebe kıyasla daha olumlu seyrettiğine işaret etmektedir. Ekim-Kasım döneminde önceki çeyreğe kıyasla altın hariç ihracat artarken altın hariç ithalat sınırlı oranda gerilemiştir. Bu görünümle uyumlu olarak, dördüncü çeyrekte PMI yeni ihracat siparişleri nötr seviyenin üzerine çıkarken, toplam siparişler önceki çeyreğe kıyasla sınırlı miktarda artış kaydetmiştir. Bu dönemde, otomobil ve beyaz eşya iç piyasa satışları öne çekilen talebe bağlı olarak güçlü seyrederken perakende sektöründe daha belirgin olmak üzere hizmetlere ilişkin talep gerilemiştir."
+                },
+                {
+                    "index": 8,
+                    "text": "Alınan destekleyici teşvik ve tedbirlerin katkısıyla iktisadi faaliyetteki ılımlı toparlanma eğiliminin devam etmesi beklenmektedir. Konut piyasası ve taşıt sektörüne ilişkin veriler ile tüketici kredilerinde son aylarda gözlenen toparlanma kademeli iyileşme öngörülerini desteklemektedir. Buna ek olarak, önümüzdeki dönemde kamu kesiminin büyümeye katkısının yatırım kaynaklı olarak devam edeceği tahmin edilmektedir."
+                },
+                {
+                    "index": 9,
+                    "text": "Avrupa Birliği ülkelerinin talebindeki artışın başta otomotiv sektörü olmak üzere toplam ihracat üzerindeki olumlu etkisi sürmektedir. Dış talep üzerindeki jeopolitik gelişmeler kaynaklı olumsuz etkilere karşın dış piyasalarda pazar çeşitlendirme esnekliği ihracatı desteklemeye devam etmektedir. Ayrıca, çevre ülkeler ile normalleşmeye başlayan ilişkiler ihracatı olumlu etkilemeye başlamıştır. Turizm sektöründeki görünümün cari denge üzerindeki olumsuz etkisi sürerken dış ticaret hadlerindeki gelişmelerin gecikmeli yansımaları ve kredilerin ılımlı seyri bu etkiyi sınırlamaktadır. Bununla birlikte, emtia fiyatlarının cari açık üzerindeki olumlu etkisinin önümüzdeki dönemlerde kademeli olarak azalması beklenmektedir."
+                },
+                {
+                    "index": 10,
+                    "text": "İşgücü piyasasında Mayıs döneminde başlayan bozulma eğilimi Ekim döneminde devam etmiştir. Bu dönemde, hizmet ve sanayi istihdamında ılımlı artışlar gerçekleşirken inşaat istihdamı azalmıştır. Bununla birlikte, yeni iş ilânları ve işsizlik sigortası başvuruları gibi öncü göstergeler, istihdamın zayıf seyrettiğine ve işsizlik oranlarının yüksek seyretmeye devam edeceğine işaret etmektedir."
+                },
+                {
+                    "index": 11,
+                    "text": "Özetle, iktisadi faaliyetin son çeyrekte kısmi bir toparlanma kaydettiği görülmekte ve 2016 yılında büyümenin ılımlı bir düzeyde gerçekleşeceği tahmin edilmektedir. Öte yandan, yakın dönemde piyasalarda yaşanan oynaklığın güven kanalı üzerinden yansımaları, küresel ve jeopolitik gelişmelerin finansal koşullar üzerindeki olası etkisi ve turizm görünümünde henüz kayda değer bir iyileşme sinyali bulunmaması ekonomideki toparlanmanın gücünü sınırlamaktadır."
+                }
+            ]
+        },
+        {
+            "title": "Para Politikası ve Riskler",
+            "items": [
+                {
+                    "index": 12,
+                    "text": "2016 yılı Kasım ayında yapılan ABD seçimlerini takiben küresel ekonomiye ilişkin belirsizlikler artarak devam etmiştir. Bu dönemde, gelişmiş ülkelerin uzun vadeli faizleri yükselirken, gelişmekte olan ülkelere yönelik sermaye akımları zayıflamıştır. Seçimler sonrasında ABD’nin korumacı politikalar uygulaması olasılığının artması gelişmekte olan ülkelerin büyüme hızı ve istihdamı üzerinde aşağı yönlü risk oluşturmaktadır. Ayrıca, ABD’nin genişletici maliye politikası uygulaması ihtimalinin güçlenmesi, Fed’in faiz artırımlarını hızlandırmasına ve buna bağlı olarak gelişmekte olan ülkeler için finansal koşulların daha fazla sıkılaşmasına neden olabilecektir."
+                },
+                {
+                    "index": 13,
+                    "text": "Küresel piyasalarda devam eden belirsizliklerin yanı sıra, jeopolitik gelişmeler ve yurt içi gelişmeler 2016 yılının dördüncü çeyreğinde yurt içi finansal piyasaların oynak bir seyir izlemesine neden olmuştur. Söz konusu gelişmelerin finansal koşullar üzerindeki olumsuz etkisi, alınan likidite tedbirleri, makroihtiyati düzenlemeler ve diğer teşvikler ile kısmen dengelenmektedir. Nitekim son dönemde tüketici kredileri ve Türk lirası cinsinden ticari krediler toparlanma sinyalleri vermektedir. Öte yandan, 2016 yılı son çeyreğinde yapılan vergi düzenlemeleri ve döviz kuru gelişmelerinin otomobil ve dayanıklı tüketim gibi bazı mallara olan talebi öne çekmesi dolayısıyla, 2017 yılı ilk çeyreğinde tüketici kredilerinde gözlenen canlanmanın bir miktar ivme kaybedebileceği değerlendirilmektedir."
+                },
+                {
+                    "index": 14,
+                    "text": "Son dönemde açıklanan veriler yılın üçüncü çeyreğinde ekonominin kayda değer bir yavaşlama gösterdiğine işaret etmektedir. Alınan destekleyici teşvik ve tedbirlerin katkısıyla son çeyrekte iç talepte toparlanma gözlenmiştir. Bununla birlikte toparlanmanın sektörel yayılımı sınırlı kalmış ve ana eğilim itibarıyla ekonomide ılımlı bir büyüme kaydedilmiştir. Yakın döneme ilişkin göstergeler Türk lirasındaki değer kaybı ve güven kanalının da etkisiyle yılın ilk çeyreğinde yurt içi talebin yavaşlayabileceğine işaret etmektedir. Ancak belirsizliklerin ve finans piyasalarındaki oynaklığın azalmasıyla birlikte takip eden dönemde ekonominin ana eğilimine dönerek 2017’de ılımlı bir büyüme sergilemesi beklenmektedir. Diğer taraftan, turizm gelirlerindeki toparlanmanın hızı, küresel ekonomik görünüm, gelişmiş ülke para politikalarına ilişkin belirsizlikler ve jeopolitik gelişmeler iktisadi faaliyet üzerinde aşağı yönlü risk oluşturmaktadır. Öte yandan son dönemde alınan teşvik ve tedbirlerin olası gecikmeli etkileri yukarı yönlü bir risk unsuru olarak değerlendirilmektedir. TCMB, temel hedefi fiyat istikrarı olmakla beraber, iktisadi faaliyete dair aşağı yönlü riskleri finansal istikrar yansımaları bakımından da yakından izlemektedir."
+                },
+                {
+                    "index": 15,
+                    "text": "Kurul, toplantıda Ocak Enflasyon Raporu’nda yer alması öngörülen orta vadeli tahminleri değerlendirmiştir. Yılın son çeyreğinde enflasyon, enerji, alkol-tütün ve işlenmemiş gıda grupları öncülüğünde yükselmiştir. Toplam talep koşulları enflasyona düşüş yönlü katkısını sürdürse de döviz kuru ve emtia fiyatlarındaki artışlarla çekirdek enflasyonun ana eğilimi yükselmiştir. Kısa dönemde işlenmemiş gıda fiyatlarındaki baz etkileri ve Türk lirası cinsinden ithalat fiyatlarında gözlenen gelişmelerin enflasyon üzerinde belirgin bir yukarı yönlü etki yapması beklenmektedir. Bu çerçevede enflasyonun, toplam talepteki ılımlı seyrin sınırlayıcı etkisine rağmen maliyet baskılarıyla yüksek seviyelerini bir müddet koruyacağı, yılın ikinci yarısından itibaren ise kademeli bir düşüş sergileyeceği öngörülmektedir. Tahminler oluşturulurken gıda talebindeki turizm kaynaklı yavaşlama ve Gıda Komitesi çalışmalarının olumlu katkısına rağmen işlenmemiş gıda fiyatlarındaki baz etkileri, olumsuz hava koşullarının gıda arzı üzerindeki olası etkileri ve döviz kuru gelişmelerine bağlı olarak 2017 yıl sonu gıda enflasyonunun bir önceki Rapor dönemine kıyasla daha yüksek gerçekleşeceği varsayılmıştır. Bu çerçevede, 2017 ve 2018 yıl sonu enflasyon tahminleri 2016 Ekim Enflasyon Raporu’na göre sırasıyla 1,5 puan ve 1 puan yukarı yönlü güncellenmiştir. Enflasyonu düşürmeye odaklı ve sıkı bir politika duruşu altında, enflasyonun yüzde 5’lik hedefe kademeli olarak yakınsayacağı; 2017 yılında yüzde 8 olarak gerçekleşeceği; 2018 yılında ise yüzde 6’ya geriledikten sonra 2019 yılında yüzde 5 düzeyinde istikrar kazanacağı öngörülmektedir."
+                },
+                {
+                    "index": 16,
+                    "text": "Enflasyon tahminlerine dair aşağı ve yukarı yönlü riskler bulunmakla birlikte, özellikle 2017 yıl sonu tahminine ilişkin yukarı yönlü risklerin daha belirgin olduğu değerlendirilmektedir. Son dönemde döviz piyasasında oynaklığın belirgin biçimde artması maliyet kanalıyla olduğu kadar beklenti ve fiyatlama davranışı kanalıyla da enflasyon üzerinde yukarı yönlü risk oluşturmaktadır. Öte yandan, önümüzdeki dönemde iktisadi faaliyetteki toparlanmanın öngörülenden daha yavaş gerçekleşmesi durumunda talep koşullarının enflasyon üzerindeki düşürücü etkisi öngörülenden daha belirgin olabilecektir. Tahminler üzerinde bir diğer belirleyici unsur olan gıda enflasyonu üzerindeki aşağı ve yukarı yönlü risklerin dengeli olduğu değerlendirilmektedir. Olumsuz hava koşulları ve döviz kuru yansımalarına bağlı olarak gıda enflasyonunun öngörülenden daha yüksek gerçekleşmesi olasılık dahilinde olmakla birlikte, Gıda Komitesi’nin almakta olduğu tedbirlerin bu riskleri dengeleyeceği düşünülmektedir. TCMB, enflasyon görünümünü etkileyen gelişmeleri yakından takip ederek fiyat istikrarını tesis etmek için gerekli politika önlemlerini almaya devam edecektir."
+                },
+                {
+                    "index": 17,
+                    "text": "Tüm bu değerlendirmeler çerçevesinde TCMB, 2017 yılı Ocak ayından itibaren döviz kurundaki aşırı hareketliliğe ve enflasyon görünümündeki bozulmaya tepki olarak bir dizi likidite önlemi almış ve Ocak ayındaki PPK toplantısında para politikasındaki sıkı duruşun güçlendirilmesine karar vermiştir. Bu doğrultuda, marjinal fonlama faizi 75 baz puan artırılarak yüzde 9,25’e, geç likidite penceresi borç verme faiz oranı ise 100 baz puan artırılarak yüzde 11’e yükseltilmiştir. Merkez Bankası fiyat istikrarı temel amacı doğrultusunda elindeki bütün araçları kullanmaya devam edecektir. Önümüzdeki dönemde para politikası kararları enflasyon görünümüne bağlı olacaktır. Enflasyon beklentileri, fiyatlama davranışları ve enflasyonu etkileyen diğer unsurlardaki gelişmeler yakından izlenerek ihtiyaç duyulması halinde ilave parasal sıkılaştırma yapılabilecektir. Ayrıca, döviz piyasasında iktisadi temellerle uyumlu olmayan sağlıksız fiyat oluşumları gözlenmesi halinde likidite araçları ile gerekli tedbirler alınacaktır."
+                },
+                {
+                    "index": 18,
+                    "text": "2017 yılının Ocak ayında makro çerçeve ve iktisadi temeller değişmediği halde döviz piyasasında gözlenen aşırı hareketlilik dinamik ve farklı likidite araçlarını da içeren bir sıkılaştırma çerçevesinin uygulamaya konulmasını gerektirmiştir. Sade bir politika çerçevesi aktarım mekanizmasının etkinliğini artırırken bu tip dinamik tepkileri dışlamamaktadır."
+                },
+                {
+                    "index": 19,
+                    "text": "Maliye politikasına ve vergi düzenlemelerine ilişkin gelişmeler enflasyon görünümüne etkileri bakımından yakından takip edilmektedir. 2016 yılında yönetilen/yönlendirilen fiyatlarda yapılan düzenlemeler tüketici enflasyonuna tarihsel ortalamaların üzerinde yükseltici etki yapmıştır. Bu etki enflasyonun TCMB’nin sene başında verdiği tahminin üzerinde gerçekleşmesinde temel belirleyicilerden biri olmuştur. Önümüzdeki dönemde para politikası duruşu oluşturulurken, mali disiplinin korunacağı ve yönetilen/yönlendirilen fiyatlarda öngörülmeyen bir artış gerçekleşmeyeceği varsayılmaktadır. Maliye politikasının söz konusu çerçeveden belirgin olarak sapması ve bu durumun orta vadeli enflasyon görünümünü olumsuz etkilemesi halinde para politikası duruşunun da güncellenmesi söz konusu olabilecektir."
+                },
+                {
+                    "index": 20,
+                    "text": "Son yıllarda mali disiplinin sürdürülmesi Türkiye ekonomisinin olumsuz dış şoklara karşı duyarlılığını azaltan temel unsurlardan biri olmuştur. Ayrıca, mali disiplinin sağlamış olduğu alan 2016 yılında olduğu gibi iktisadi faaliyetin yavaşladığı dönemlerde maliye politikasının bütçe dengelerinde kalıcı bir bozulma olmadan döngü karşıtı olarak uygulanabilmesine olanak sağlamaktadır. Bununla birlikte, kamu harcama ve vergi politikalarında yapılması planlanan değişikliklerin, bütçenin yanı sıra büyüme, yurt içi tasarruf ve enflasyon gibi diğer makroekonomik değişkenlere olan etkisini de dikkate alan bir bakış açısıyla değerlendirilmesi para politikası ve maliye politikası eşgüdümüne katkıda bulunacak ve makroekonomik istikrarı destekleyecektir."
+                }
+            ]
+        }
+    ],
+    "decision": "2017-04",
+    "governor": "Murat Çetinkaya",
+    "board": [
+        "Ahmet Faruk Aysan",
+        "Erkan Kilimci",
+        "Emrah Şener",
+        "Murat Uysal",
+        "Abdullah Yavaş"
+    ],
+    "abstract": "Para Politikası Kurulu (Kurul), Merkez Bankası bünyesindeki Bankalararası Para Piyasası ve Borsa İstanbul Repo-Ters Repo Pazarlarında uygulanmakta olan faiz oranları ile bir hafta vadeli repo ihale faiz oranının aşağıdaki gibi belirlenmesine karar vermiştir: a) Gecelik faiz oranları: Marjinal fonlama oranı yüzde 8,5’ten yüzde 9,25’e yükseltilmiş, Merkez Bankası borçlanma faiz oranı yüzde 7,25 düzeyinde sabit tutulmuştur. b) Bir hafta vadeli repo ihale faiz oranı yüzde 8’de sabit tutulmuştur. c) Geç Likidite Penceresi faiz oranları: Geç Likidite Penceresi uygulaması çerçevesinde, Bankalararası Para Piyasası’nda saat 16.00-17.00 arası gecelik vadede uygulanan Merkez Bankası borçlanma faiz oranı yüzde 0 düzeyinde sabit tutulurken borç verme faiz oranı yüzde 10’dan yüzde 11’e yükseltilmiştir. Son dönemde açıklanan veriler iktisadi faaliyetin kısmi bir toparlanma sergilediğine işaret etmektedir. İç talep göreli olarak daha zayıf seyrederken Avrupa Birliği ülkelerinin talebindeki artışın ihracat üzerindeki olumlu etkisi sürmektedir. Alınan destekleyici teşvik ve tedbirlerin katkısıyla iktisadi faaliyetteki ılımlı toparlanma eğiliminin devam etmesi beklenmektedir. Kurul, yapısal reformların uygulamaya geçirilmesinin büyüme potansiyelini önemli ölçüde artırabileceğini değerlendirmektedir. Toplam talep gelişmeleri enflasyona düşüş yönünde katkı vermektedir. Bununla birlikte, son Kurul toplantısından bu yana döviz kurlarında gözlenen aşırı hareketlilik enflasyon görünümüne dair yukarı yönlü riskleri artırmıştır. Döviz kuru gelişmelerinin gecikmeli etkisi ve işlenmemiş gıda fiyatlarındaki oynaklık nedeniyle kısa vadede enflasyondaki belirgin yükselişin devam edebileceği öngörülmektedir. Bu çerçevede Kurul, enflasyon görünümündeki bozulmayı sınırlamak amacıyla parasal sıkılaştırmanın güçlendirilmesine karar vermiştir. Merkez Bankası fiyat istikrarı temel amacı doğrultusunda elindeki bütün araçları kullanmaya devam edecektir. Önümüzdeki dönemde para politikası kararları enflasyon görünümüne bağlı olacaktır. Enflasyon beklentileri, fiyatlama davranışları ve enflasyonu etkileyen diğer unsurlardaki gelişmeler yakından izlenerek ihtiyaç duyulması halinde ilave parasal sıkılaştırma yapılabilecektir. Ayrıca, döviz piyasasında iktisadi temellerle uyumlu olmayan sağlıksız fiyat oluşumları gözlenmesi halinde likidite araçları ile gerekli tedbirler alınacaktır. Açıklanacak her türlü yeni verinin ve haberin Kurul’un geleceğe yönelik politika duruşunu değiştirmesine neden olabileceği önemle vurgulanmalıdır. Para Politikası Kurulu Toplantı Özeti beş iş günü içinde yayımlanacaktır."
+}

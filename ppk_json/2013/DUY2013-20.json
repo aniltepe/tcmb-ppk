@@ -1,0 +1,97 @@
+{
+    "number": "2013-20",
+    "date": "26 Mart 2013",
+    "published": "29 Mart 2013",
+    "topics": [
+        {
+            "title": "Enflasyon Gelişmeleri",
+            "items": [
+                {
+                    "index": 1,
+                    "text": "Şubat ayında tüketici fiyatları yüzde 0,30 oranında artmış, yıllık enflasyon yüzde 7,03’e gerilemiştir. Bu gelişmede gıda fiyatlarının etkisi gözlenirken temel enflasyon göstergeleri ve hizmet fiyatları ılımlı seyrini korumuştur."
+                },
+                {
+                    "index": 2,
+                    "text": "Gıda ve alkolsüz içecekler grubu fiyatlarının yıllık artış oranı yüzde 5,60’a gerilemiştir. İşlenmemiş gıda grubunda yıllık enflasyon özellikle sebze fiyatları kaynaklı olarak yüzde 1,87’ye gerilemiştir. İşlenmiş gıda grubunda ise aylık artış oranındaki yavaşlama eğilimi bu dönemde belirginleşmiştir. Ekmek ve tahıllar grubunda yurt içi buğday fiyatlarındaki görünüm paralelinde artışların sürmesine karşın diğer işlenmiş gıda ürünlerindeki olumlu seyir ile yıllık işlenmiş gıda enflasyonu Şubat ayında yaklaşık yarım puanlık bir azalışla yüzde 8,39’a gerilemiştir. Öte yandan, öncü göstergeler işlenmemiş gıda grubunda yıllık enflasyonun Mart ayında yükseleceğine işaret etmektedir."
+                },
+                {
+                    "index": 3,
+                    "text": "Şubat ayında enerji fiyatları yüzde 0,64 oranında artarken yıllık enerji enflasyonu yüzde 11,75’e gerilemiştir. Bu dönemde uluslararası petrol fiyatlarındaki yükselişin etkisiyle yurt içi akaryakıt fiyatları yüzde 1,85 oranında yükselmiştir. Öte yandan, Mart ayı içinde uluslararası petrol fiyatlarının yeniden Ocak Enflasyon Raporu’nda varsayılan seviyeye gerilediği gözlenmektedir."
+                },
+                {
+                    "index": 4,
+                    "text": "Hizmet grubunda yıllık enflasyon sınırlı bir artışla yüzde 7,21’e yükselmiştir. Alt gruplar bazında bakıldığında, yıllık enflasyon haberleşme ve ulaştırma hizmetlerinde yükselirken kira, lokanta oteller ve diğer hizmetlerde sabit seyretmiştir. Diğer taraftan, mevsimsellikten arındırılmış hizmet fiyatlarının artış eğilimi ile yayılım endeksi Şubat ayında bir miktar yükselse de grup fiyatlarındaki ılımlı seyrin sürdüğü görülmektedir."
+                },
+                {
+                    "index": 5,
+                    "text": "Temel mal grubunda yıllık enflasyon 0,14 puan artarak yüzde 4,46 olmuştur. Giyim grubunda fiyatlar mevsimsel ortalamaların üzerinde bir oranda düşüş kaydederken dayanıklı tüketim malları fiyatlarında otomobil ve mobilya fiyatlarına bağlı olarak yükseliş gözlenmiştir. Böylece, son dönemde gerilemekte olan dayanıklı mal yıllık enflasyonu Şubat ayında yükselmiştir. Giyim ve dayanıklı tüketim dışında kalan temel malların yıllık artış oranındaki yavaşlama ise sürmüştür. Öte yandan, mevsimsellikten arındırılmış veriler temel enflasyon göstergelerinin ana eğilimindeki göreli ılımlı seyrin korunduğuna işaret etmiştir."
+                }
+            ]
+        },
+        {
+            "title": "Enflasyonu Etkileyen Unsurlar",
+            "items": [
+                {
+                    "index": 6,
+                    "text": "2013 yılı ilk çeyreğine ait veriler, iktisadi faaliyetteki toparlanmanın sürdüğüne işaret etmektedir. Sanayi üretimi Ocak ayında aylık bazda artış göstererek Aralık ayındaki düşüşünü kısmen telafi etmiştir. Gerek taşıt ve beyaz eşya satışları gerekse kredilerin seyri iç talebin artış eğiliminde olduğunu ortaya koymaktadır. İYA ve PMI gibi anket göstergeleri de yurt içi nihai talepte hem tüketim hem de yatırım talebi kaynaklı olmak üzere sağlıklı bir toparlanmanın başladığına yönelik sinyaller içermektedir."
+                },
+                {
+                    "index": 7,
+                    "text": "Dış ticaret ve cari dengeye ilişkin son dönem verileri iç ve dış talep gelişmelerinin öngörüldüğü şekilde seyrettiğini göstermektedir. İhracatın ana eğilimi zayıf küresel büyümeye rağmen ürün ve pazar çeşitlendirmesinin desteğiyle nispeten olumlu bir görünüm arz etmektedir. İthalatta ise yurt içi talepteki toparlanmayla birlikte kayda değer bir yükseliş gözlenmektedir. Bu durum cari işlemler açığında bir miktar yükselişe neden olmaktadır. Kurul, mevcut politika çerçevesinin cari işlemler açığındaki bozulmayı sınırlayacağı değerlendirmesinde bulunmuştur."
+                },
+                {
+                    "index": 8,
+                    "text": "Mevsimsellikten arındırılmış tarım dışı istihdam 2012 yılı Aralık döneminde hız keserek artmaya devam etmiştir. Bununla birlikte, işgücüne katılım oranındaki yükselişten dolayı işsizlik oranları sınırlı bir artış göstermiştir. Bu dönemde tarım dışı istihdam artışı asıl olarak, 2012 yılı son çeyreğiyle birlikte toparlanma eğilimine giren sanayi sektöründen kaynaklanmıştır. Önümüzdeki dönemde iktisadi faaliyetteki toparlanmaya paralel olarak istihdamın kademeli bir şekilde artmaya devam edeceği öngörülmektedir. Bununla birlikte, küresel ekonomiye dair belirsizlikler yatırım ve istihdam artışını sınırlayabilecek bir unsur olarak önemini korumaktadır."
+                }
+            ]
+        },
+        {
+            "title": "Para Politikası ve Riskler",
+            "items": [
+                {
+                    "index": 9,
+                    "text": "Yılın ilk aylarında sermaye akımlarındaki güçlü seyrin etkisiyle finansal koşullarda belirgin bir iyileşme gözlenmiş ve kredilerdeki artış öngörülen seviyelerin üzerinde seyretmiştir. Kurul ilk çeyrekteki kredi büyümesinin Türkiye için sağlıklı olduğu düşünülen yüzde 15 referans değerinin üzerinde bir eğilime işaret ettiği değerlendirmesinde bulunmuştur."
+                },
+                {
+                    "index": 10,
+                    "text": "Son dönemde küresel belirsizliklerin artması sonucu sermaye girişlerinde tekrar bir yavaşlama olduğu dikkat çekmektedir. Gelişmiş ülkelerdeki ekonomik politika belirsizliğine ve Euro Bölgesinde süregelen sorunlara bağlı olarak 2012 yılının ortalarından itibaren güçlü seyreden sermaye girişleri yakın dönemde hız keserek yeniden oynak bir görünüm almıştır."
+                },
+                {
+                    "index": 11,
+                    "text": "Kurul, sermaye akımlarında artan oynaklığa karşı Rezerv Opsiyonu Mekanizmasının (ROM) etkinliğini kademeli olarak artırmaya karar vermiştir. Sistemin otomatik dengeleyici niteliğinin güçlenmesi için katsayıların yukarı yönlü ayarlanmasının ve yüzde 35-40 basamağının ilave edilmesinin uygun olacağı ifade edilmiştir. ROM’un daha etkin bir şekilde devreye girmesi geniş faiz koridoruna duyulan ihtiyacı büyük ölçüde azaltmaktadır. Bu doğrultuda Kurul, gecelik borç verme faizlerinde 100 baz puanlık indirime gitmiştir. Böylece faiz koridoru daha simetrik bir hale getirilmiştir."
+                },
+                {
+                    "index": 12,
+                    "text": "Küresel ekonomiye dair belirsizliklerin sürmesi nedeniyle para politikasında her iki yönde de esnekliğin korunmasının uygun olacağı belirtilmiştir. Bu doğrultuda, alınan tedbirlerin krediler, yurt içi talep ve enflasyon beklentileri üzerindeki etkileri dikkatle takip edilecek, Türk lirası fonlama miktarı gerekli görüldüğünde aşağı veya yukarı yönlü ayarlanacaktır. Kurul, önümüzdeki dönemde likidite yönetiminin önem kazanacağını belirtmiştir. Bu kapsamda likidite yönetimini bir miktar sıkılaştırmak için bir ay vadeli fonlamanın payının azaltılmasına karar verilmiştir."
+                },
+                {
+                    "index": 13,
+                    "text": "Kurul, daha sıkı bir likidite politikasının, sermaye akımlarındaki zayıflama ile birlikte kredi büyümesini yavaşlatacağını öngörmektedir. Sermaye girişlerinde tekrar hızlanma olması durumunda ise mevcut politika çerçevesi dahilinde likidite politikası, ROM ve zorunlu karşılıklar gibi araçlar kullanılarak gerekli tedbirler alınacaktır."
+                },
+                {
+                    "index": 14,
+                    "text": "Küresel talepteki yavaşlama ve emtia fiyatlarının görünümü enflasyona ilişkin yukarı yönlü riskleri azaltmaktadır. Küresel ekonominin zayıf seyri enerji ve ana metal fiyatları üzerinde aşağı yönlü baskı oluşturmaktadır. Ayrıca son dönemde yaşanan gelişmeler en büyük dış ticaret pazarımız olan Euro Bölgesinin talebindeki toparlanmanın beklenenden daha zayıf olabileceğine işaret etmektedir. Bu gelişmeler enflasyon üzerindeki yukarı yönlü baskıları sınırlamaktadır. Bununla birlikte, iç talep ve kredilerdeki artışların fiyatlama davranışları üzerindeki etkileri yakından izlenmektedir."
+                },
+                {
+                    "index": 15,
+                    "text": "Kurul, maliye politikasına ve vergi düzenlemelerine ilişkin gelişmeleri enflasyon görünümüne etkileri bakımından yakından takip etmektedir. Para politikası oluşturulurken Orta Vadeli Program'da belirlenen çerçeve esas alınmaktadır. Dolayısıyla önümüzdeki dönemde mali disiplinin korunacağı ve yönetilen/yönlendirilen fiyatlarda öngörülmeyen bir artış gerçekleşmeyeceği varsayılmaktadır. Maliye politikasının söz konusu çerçeveden belirgin olarak sapması ve bu durumun orta vadeli enflasyon görünümünü olumsuz etkilemesi halinde para politikası duruşunun da güncellenmesi söz konusu olabilecektir."
+                },
+                {
+                    "index": 16,
+                    "text": "Küresel dengesizlikler karşısında ekonomimizin dayanıklılığını koruması açısından maliye ve finansal sektör politikalarındaki temkinli duruşun sürdürülmesi kritik önem taşımaktadır. Orta vadede ise mali disiplini kalıcı hale getirecek ve tasarruf açığını azaltacak yapısal reformların güçlendirilmesi, makroekonomik istikrarı destekleyecektir. Bu yönde atılacak adımlar aynı zamanda para politikasının hareket alanını genişletecek ve uzun vadeli kamu borçlanma faizlerinin düşük düzeylerde kalıcı olmasını sağlayarak toplumsal refaha olumlu katkıda bulunacaktır. Bu çerçevede, Orta Vadeli Program'ın gerektirdiği yapısal düzenlemelerin hayata geçirilmesi konusunda atılacak adımlar büyük önem taşımaktadır."
+                }
+            ]
+        }
+    ],
+    "decision": "2013-16",
+    "governor": "Erdem Başçı",
+    "board": [
+        "Ahmet Faruk Aysan",
+        "Murat Çetinkaya",
+        "Turalay Kenç",
+        "Necati Şahin",
+        "Abdullah Yavaş",
+        "Mehmet Yörükoğlu"
+    ],
+    "abstract": "Para Politikası Kurulu (Kurul), politika faizi olan bir hafta vadeli repo ihale faiz oranı ile Bankamız bünyesindeki Bankalararası Para Piyasası ve İstanbul Menkul Kıymetler Borsası Repo-Ters Repo Pazarı’nda uygulanmakta olan faiz oranlarının aşağıdaki gibi belirlenmesine karar vermiştir: a) Politika faizi olan bir hafta vadeli repo ihale faiz oranı yüzde 5,5 düzeyinde sabit tutulmuştur. b) Gecelik faiz oranları: Merkez Bankası borçlanma faiz oranı yüzde 4,50 düzeyinde sabit tutulmuş; borç verme faiz oranı yüzde 8,50’den yüzde 7,50’ye, açık piyasa işlemleri çerçevesinde piyasa yapıcısı bankalara repo işlemleri yoluyla tanınan borçlanma imkanı faiz oranı ise yüzde 8’den yüzde 7’ye indirilmiştir. c) Geç Likidite Penceresi Faiz Oranları: Geç Likidite Penceresi uygulaması çerçevesinde, Bankalararası Para Piyasası’nda saat 16.00-17.00 arası gecelik vadede uygulanan Merkez Bankası borçlanma faiz oranı yüzde 0 düzeyinde sabit tutulmuş, borç verme faiz oranı yüzde 11,50’den yüzde 10,50’ye indirilmiştir. Son dönemde açıklanan veriler, iç ve dış talep gelişmelerinin öngörüldüğü şekilde seyrettiğini göstermektedir. Yurt içi nihai talep sağlıklı bir toparlanma sergilerken, ihracat zayıf küresel büyümeye rağmen nispeten güçlü seyretmektedir. İç talepteki canlanmaya bağlı olarak cari işlemler açığında bir miktar yükseliş gözlenmektedir. Bununla birlikte, mevcut politika çerçevesi cari işlemler açığındaki artış eğilimini sınırlayacaktır. Yılın ilk aylarında sermaye akımlarındaki güçlü seyrin etkisiyle kredilerdeki artış öngörülen seviyelerin üzerinde seyretmiştir. Ancak, son dönemde küresel belirsizliklerin artması sonucu sermaye girişlerinde tekrar bir yavaşlama olduğu dikkat çekmektedir. Sermaye akımlarında artan oynaklığa karşı Kurul, Rezerv Opsiyonu Mekanizmasının etkinliğini kademeli olarak artırmaya karar vermiştir. Otomatik dengeleyici özelliği sayesinde bu mekanizma geniş faiz koridoruna duyulan ihtiyacı büyük ölçüde azaltmaktadır. Bu nedenle gecelik borç verme faizlerinde 100 baz puanlık indirime gidilerek faiz koridoru daha simetrik bir hale getirilmiştir. Öte yandan, küresel ekonomiye dair belirsizliklerin sürmesi nedeniyle para politikasında her iki yönde de esnekliğin korunmasının uygun olacağı belirtilmiştir. Bu doğrultuda, alınan tedbirlerin krediler, yurt içi talep ve enflasyon beklentileri üzerindeki etkileri dikkatle takip edilecek, Türk lirası fonlama miktarı gerekli görüldüğünde aşağı veya yukarı yönlü ayarlanacaktır. Küresel talepteki yavaşlama ve emtia fiyatlarının görünümü enflasyona ilişkin yukarı yönlü riskleri azaltmaktadır. Bununla birlikte, iç talep ve kredilerdeki artışların fiyatlama davranışları üzerindeki etkileri yakından izlenmektedir. Açıklanacak her türlü yeni verinin ve haberin Kurul’un geleceğe yönelik politika duruşunu değiştirmesine neden olabileceği önemle vurgulanmalıdır. Para Politikası Kurulu Toplantı Özeti beş iş günü içinde yayımlanacaktır."
+}

@@ -1,0 +1,101 @@
+{
+    "number": "2013-55",
+    "date": "23 Temmuz 2013",
+    "published": "30 Temmuz 2013",
+    "topics": [
+        {
+            "title": "Enflasyon Gelişmeleri",
+            "items": [
+                {
+                    "index": 1,
+                    "text": "Haziran ayında tüketici fiyatları yüzde 0,76 oranında artmış ve yıllık enflasyon yüzde 8,30’a yükselmiştir. Bu yükselişte işlenmemiş gıda fiyatlarındaki artış ve enerji fiyatlarından kaynaklanan baz etkisi belirleyici olmuştur. Bu dönemde gıda ve enerji grubundaki fiyat artışlarının yıllık enflasyona toplam katkısı bir önceki aya göre 1,7 puan yükselirken temel enflasyon göstergeleri ılımlı seyrini korumuştur."
+                },
+                {
+                    "index": 2,
+                    "text": "Gıda ve alkolsüz içecekler grubunda yıllık enflasyon 5,81 puanlık artışla yüzde 12,88’e yükselmiştir. İşlenmemiş gıda grubunda hem taze meyvelerdeki yüksek fiyat artışları hem de sebze fiyatlarındaki baz etkisi ile yıllık enflasyon belirgin olarak yükselmiştir. İşlenmiş gıdada ise yıllık enflasyon yüzde 8,11’e gerilemiştir. Bu grupta ekmek fiyatlarındaki artış sürerken diğer ürünlerin fiyatları ılımlı seyrini korumuştur. Temmuz ayına ilişkin öncü göstergeler işlenmemiş gıda fiyatlarında beklenen düzeltmenin henüz başlamadığına işaret etmektedir."
+                },
+                {
+                    "index": 3,
+                    "text": "Enerji fiyatları Türk lirasındaki değer kaybına bağlı olarak yükselmiştir. Enerji fiyatlarının yıllık artış oranının son dönemdeki artışlar ve baz etkisiyle Haziran ayının ardından Temmuz ayında da yükselerek yıllık enflasyonda artışa neden olacağı öngörülmektedir. Öte yandan baz etkisinin, Ağustos ayından itibaren enflasyondaki düşüşe oldukça önemli bir katkı sağlayacağı öngörülmektedir."
+                },
+                {
+                    "index": 4,
+                    "text": "Hizmet fiyatları Haziran ayında yüzde 1,19 oranında artarken grup yıllık enflasyonu yüzde 7,88 ile önceki aya göre artış kaydetmiştir. Yıllık enflasyondaki yükselişin yaklaşık 0,5 puanı şoför kurs ücreti kaleminde kaydedilen yüksek oranlı artıştan kaynaklanmıştır. Bir kereliğine mahsus olan bu etki dışlanarak mevsimsellikten arındırılmış verilere bakıldığında, hizmet enflasyonundaki ana eğilimin önceki aya kıyasla yatay seyrettiği görülmektedir."
+                },
+                {
+                    "index": 5,
+                    "text": "Temel mal grubunda yıllık enflasyon giyim başta olmak üzere tüm alt gruplarda gerilemiş ve Haziran ayında yüzde 3,28 oranında gerçekleşmiştir. Türk lirasında gözlenen değer kaybının henüz fiyatlara belirgin olarak yansımadığı, bu çerçevede temel mal fiyatlarının mevsimsellikten arındırılmış eğiliminin Haziran ayında aşağı yönlü seyrini koruduğu görülmektedir. Temel mal ve hizmet grubundaki bu gelişmeler doğrultusunda temel enflasyon göstergelerinin mevsimsellikten arındırılmış eğilimleri de ılımlı seyrini korumuştur."
+                },
+                {
+                    "index": 6,
+                    "text": "Özetle, temel enflasyon göstergelerindeki ılımlı seyre rağmen gıda ve enerji fiyatlarındaki oynaklık, baz etkileri ve döviz kurunda gözlenen hareketler nedeniyle kısa vadede enflasyonun dalgalı bir seyir izlemesi beklenmektedir. Bu doğrultuda enflasyonun Temmuz ayında yükseleceği, Ağustos ayında ise belirgin bir düşüş kaydedeceği tahmin edilmektedir."
+                }
+            ]
+        },
+        {
+            "title": "Enflasyonu Etkileyen Unsurlar",
+            "items": [
+                {
+                    "index": 7,
+                    "text": "İkinci çeyreğe ilişkin veriler yurt içi nihai talebin öngörülerle uyumlu olarak sağlıklı bir toparlanma sergilediğine işaret etmektedir. Sanayi üretiminin Nisan-Mayıs dönemi ortalaması ilk çeyrek ortalamasının üzerindedir. Haziran ayında da sanayi üretiminin aylık bazda artış kaydedeceği tahmin edilmektedir. Nisan ve Mayıs aylarında tüketici güvenindeki iyileşme yurt içi talepteki artışı desteklemiştir. Haziran ayında güven endekslerinde bir miktar bozulma gözlense de ikinci çeyrek genelinde dönemlik bazda tüketim talebinin artış göstermesi beklenmektedir. Nitekim bu dönemde otomobil satışları ve kredi büyümesi güçlü artış eğilimini korumuştur. Yatırım talebine ilişkin göstergeler ise olumlu bir görünüm çizmekle beraber tüketim talebine göre daha zayıf bir artışa işaret etmektedir."
+                },
+                {
+                    "index": 8,
+                    "text": "Dış ticaret ve cari dengeye ilişkin veriler de ikinci çeyrekte büyük ölçüde öngörüler doğrultusunda gerçekleşmektedir. Yurt içi talepteki toparlanmaya bağlı olarak ithalat talebinde canlanma gözlenirken, ihracat ılımlı şekilde artmaktadır. Kısa vadede altın ithalatındaki güçlü artış da göz önüne alındığında yıllık birikimli dış ticaret ve cari işlemler açığının yükselmeye devam etmesi beklenmektedir. Öte yandan, makro finansal riskleri gözeten mevcut politika çerçevesi cari işlemler açığındaki artışı sınırlamaktadır. Nitekim altın ticareti hariç tutulduğunda cari işlemler açığının yatay bir seyir izlediği görülmektedir."
+                },
+                {
+                    "index": 9,
+                    "text": "2013 yılı Nisan döneminde tarım dışı istihdam istikrarlı artışını sürdürmüştür. Bununla birlikte iş gücüne katılımdaki artış nedeniyle mevsimsellikten arındırılmış işsizlik oranı değişmemiştir. Son dönemde tarım dışı istihdam artışı daha çok sanayi ve inşaat sektörlerinden kaynaklanırken hizmetler istihdamı yatay seyretmiştir. PMI verileri yılın ikinci çeyreğinde sanayi istihdamındaki artışın hız keserek süreceği sinyalini vermektedir. Küresel ekonomiye dair belirsizlikler önümüzdeki dönemde yatırım ve istihdam artışını sınırlayabilecek bir unsur olarak önemini korumaktadır."
+                }
+            ]
+        },
+        {
+            "title": "Para Politikası ve Riskler",
+            "items": [
+                {
+                    "index": 10,
+                    "text": "Toplantıda, Mayıs ayının sonlarından itibaren küresel düzeyde para politikalarına ilişkin artan belirsizlik nedeniyle sermaye akımlarında gözlenen zayıflamanın fiyat istikrarı ve finansal istikrar üzerindeki yansımaları değerlendirilmiştir. Kurul sermaye akımlarındaki yavaşlamaya rağmen kredi artış oranlarının referans değerin üzerinde seyretmeye devam ettiğine dikkat çekerek, böyle bir konjonktürde para politikası duruşunun sıkılaştırılmasının finansal istikrarı destekleyeceği değerlendirmesinde bulunmuştur."
+                },
+                {
+                    "index": 11,
+                    "text": "Kurul, toplantıda ayrıca Temmuz Enflasyon Raporu’nda yer alması öngörülen orta vadeli tahminleri de değerlendirmiştir. Enflasyonu artıran birden fazla unsurun aynı dönemde ortaya çıkmasının enflasyon beklentilerini olumsuz etkilediği ifade edilmiştir. İşlenmemiş gıda grubundaki fiyat artışları, petrol fiyatlarındaki yükseliş ve döviz kurunda gözlenen oynaklık kısa vadede enflasyonu olumsuz etkilemeye devam edebilecektir. Enflasyon tahminlerine esas oluşturan varsayımlar ve dışsal koşullar bir arada değerlendirildiğinde, temelde döviz kuru ve petrol fiyatlarındaki gelişmeler göz önüne alınarak 2013 yıl sonu enflasyon tahmini yukarı yönlü güncellenmiştir. Küresel ekonominin zayıf görünümü ve iç talebin ılımlı seyri nedeniyle söz konusun gelişmelerin 2014 yıl sonu enflasyonu üzerindeki etkisinin sınırlı kalacağı tahmin edilmektedir. Bununla birlikte Kurul, fiyatlama davranışları üzerindeki olumsuz etkileri sınırlamak amacıyla ölçülü bir parasal sıkılaştırmaya gidilmesinin gerektiğini belirtmiştir."
+                },
+                {
+                    "index": 12,
+                    "text": "Sonuç olarak Kurul, fiyat istikrarını sağlamak ve finansal istikrarı desteklemek amacıyla faiz koridorunun üst sınırının yükseltilmesine karar vermiştir. Enflasyon görünümü orta vadeli hedeflerle uyumlu olana kadar para politikasının temkinli duruşunun korunacağı; gerektiğinde ek parasal sıkılaştırmaya gidilebileceği vurgulanmıştır."
+                },
+                {
+                    "index": 13,
+                    "text": "Mevcut durumda küresel iktisadi faaliyete dair açıklanan veriler istikrarlı bir görünüm çizmezken, gelişmiş ülkelerin ekonomi politikalarına ilişkin belirsizliklerin uzun süre devam etmesi halinde önümüzdeki dönemde risk iştahının dalgalı bir seyir izlemesi ve sermaye akımlarındaki zayıf seyrin sürmesi beklenebilir. Bu durum enflasyon ve finansal istikrar görünümü üzerinde risk oluşturabilecektir. Merkez Bankası, böyle bir senaryonun gerçekleşmesi halinde döviz kurundaki aşırı oynaklığı azaltmak amacıyla faiz koridorunu ve diğer para politikası araçlarını etkin bir şekilde kullanacaktır."
+                },
+                {
+                    "index": 14,
+                    "text": "Öte yandan, küresel ekonomideki toparlanmanın gecikmesi ve bunun sonucunda gelişmiş ülke merkez bankalarının uzunca bir süre miktarsal genişlemeye devam etmesi de aşağı yönlü bir risk olarak önemini korumaktadır. Böyle bir durumda gelişmekte olan ülkelere olan sermaye akımları bir süre için tekrar hızlanabilecektir. Bu senaryonun gerçekleşmesi halinde Merkez Bankası Türk lirası likiditesini bollaştırarak kısa vadeli faiz oranlarını düşük düzeylerde tutarken zorunlu karşılıklar ve Rezerv Opsiyonu Mekanizması aracılığıyla hızlı sermaye girişlerinin finansal istikrar üzerindeki olumsuz etkilerini sınırlayacaktır."
+                },
+                {
+                    "index": 15,
+                    "text": "Bu değerlendirmeler sonucunda Kurul, küresel ekonomiye dair belirsizliklerin ve sermaye akımlarındaki oynaklığın sürmesi nedeniyle Türk lirası likidite politikasının esnekliğinin artırılmasına karar vermiştir. Bu doğrultuda, fiyat istikrarını ve finansal istikrarı etkileyen gelişmeler yakından takip edilerek Merkez Bankası tarafından sağlanan Türk lirası likiditesinin kompozisyonunda gereken ayarlamalar yapılacaktır."
+                },
+                {
+                    "index": 16,
+                    "text": "Kurul, maliye politikasına ve vergi düzenlemelerine ilişkin gelişmeleri enflasyon görünümüne etkileri bakımından yakından takip etmektedir. Para politikası duruşu oluşturulurken maliye politikası ile ilgili olarak Orta Vadeli Program’da belirlenen çerçeve esas alınmaktadır. Dolayısıyla önümüzdeki dönemde mali disiplinin korunacağı ve yönetilen/yönlendirilen fiyatlarda öngörülmeyen bir artış gerçekleşmeyeceği varsayılmaktadır. Maliye politikasının söz konusu çerçeveden belirgin olarak sapması ve bu durumun orta vadeli enflasyon görünümünü olumsuz etkilemesi halinde para politikası duruşunun da güncellenmesi söz konusu olabilecektir."
+                },
+                {
+                    "index": 17,
+                    "text": "Küresel dengesizlikler karşısında ekonomimizin dayanıklılığını koruması açısından maliye ve finansal sektör politikalarındaki temkinli duruşun sürdürülmesi kritik önem taşımaktadır. Orta vadede ise mali disiplini kalıcı hale getirecek ve tasarruf açığını azaltacak yapısal reformların güçlendirilmesi makroekonomik istikrarı destekleyecektir. Bu yönde atılacak adımlar aynı zamanda para politikasının hareket alanını genişletecek ve uzun vadeli kamu borçlanma faizlerinin düşük düzeylerde kalıcı olmasını sağlayarak toplumsal refaha olumlu katkıda bulunacaktır. Bu çerçevede, Orta Vadeli Program’ın gerektirdiği yapısal düzenlemelerin hayata geçirilmesi büyük önem taşımaktadır."
+                }
+            ]
+        }
+    ],
+    "decision": "2013-51",
+    "governor": "Erdem Başçı",
+    "board": [
+        "Ahmet Faruk Aysan",
+        "Murat Çetinkaya",
+        "Turalay Kenç",
+        "Necati Şahin",
+        "Abdullah Yavaş",
+        "Mehmet Yörükoğlu"
+    ],
+    "abstract": "Para Politikası Kurulu (Kurul), politika faizi olan bir hafta vadeli repo ihale faiz oranı ile Bankamız bünyesindeki Bankalararası Para Piyasası ve Borsa İstanbul Repo-Ters Repo Pazarı’nda uygulanmakta olan faiz oranlarının aşağıdaki gibi belirlenmesine karar vermiştir: a) Politika faizi olan bir hafta vadeli repo ihale faiz oranı yüzde 4,5 düzeyinde sabit tutulmuştur. b) Gecelik faiz oranları: Merkez Bankası borçlanma faiz oranı yüzde 3,5 düzeyinde sabit tutulurken; borç verme faiz oranı yüzde 6,5’ten yüzde 7,25’e, açık piyasa işlemleri çerçevesinde piyasa yapıcısı bankalara repo işlemleri yoluyla tanınan borçlanma imkanı faiz oranı ise yüzde 6’dan yüzde 6,75’e yükseltilmiştir. c) Geç Likidite Penceresi Faiz Oranları: Geç Likidite Penceresi uygulaması çerçevesinde, Bankalararası Para Piyasası’nda saat 16.00-17.00 arası gecelik vadede uygulanan Merkez Bankası borçlanma faiz oranı yüzde 0 düzeyinde sabit tutulmuş, borç verme faiz oranı yüzde 9,5’ten yüzde 10,25’e yükseltilmiştir. Son dönemde açıklanan veriler yılın ikinci çeyreğinde iç ve dış talep gelişmelerinin öngörüldüğü şekilde seyrettiğini göstermektedir. Yurt içi nihai talep sağlıklı bir toparlanma sergilerken, ihracatta ılımlı bir büyüme gözlenmektedir. Mevcut politika çerçevesi cari işlemler açığındaki artışı sınırlamaktadır. Nitekim altın ticareti hariç tutulduğunda cari işlemler açığının yatay bir seyir izlediği görülmektedir. Mayıs ayından bu yana küresel düzeyde para politikalarına ilişkin artan belirsizlik nedeniyle sermaye akımlarında zayıflama gözlenmiştir. Öte yandan kredi artış oranları referans değerin üzerinde seyretmeye devam etmektedir. Kurul, böyle bir konjonktürde para politikası duruşunun sıkılaştırılmasının finansal istikrarı destekleyeceği değerlendirmesinde bulunmuştur. Enflasyonu artıran birden fazla unsurun aynı dönemde ortaya çıkması enflasyon beklentilerini olumsuz etkilemiştir. İşlenmemiş gıda grubundaki fiyat artışları, petrol fiyatlarındaki yükseliş ve döviz kurunda gözlenen oynaklık kısa vadede enflasyonu olumsuz etkilemeye devam edebilecektir. Kurul, bu gelişmelerin enflasyon üzerindeki etkilerinin büyük oranda geçici olacağını öngörmekle birlikte, fiyatlama davranışları üzerindeki olumsuz etkileri sınırlamak amacıyla ölçülü bir parasal sıkılaştırmaya gidilmesinin gerektiğini belirtmiştir. Sonuç olarak Kurul, fiyat istikrarını sağlamak ve finansal istikrarı desteklemek amacıyla faiz koridorunun üst sınırının yükseltilmesine karar vermiştir. Enflasyon görünümü orta vadeli hedeflerle uyumlu olana kadar para politikasının temkinli duruşu korunacak; gerektiğinde ek parasal sıkılaştırmaya gidilebilecektir. Öte yandan, küresel ekonomiye dair belirsizliklerin ve sermaye akımlarındaki oynaklığın sürmesi nedeniyle Türk lirası likidite politikasının esnekliğinin artırılmasına karar verilmiştir. Bu doğrultuda, fiyat istikrarını ve finansal istikrarı etkileyen gelişmeler yakından takip edilerek Merkez Bankası tarafından sağlanan Türk lirası likiditesinin kompozisyonunda gereken ayarlamalar yapılacaktır. Açıklanacak her türlü yeni verinin ve haberin Kurul’un geleceğe yönelik politika duruşunu değiştirmesine neden olabileceği önemle vurgulanmalıdır. Para Politikası Kurulu Toplantı Özeti beş iş günü içinde yayımlanacaktır."
+}

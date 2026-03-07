@@ -1,0 +1,96 @@
+{
+    "number": "2011-69",
+    "date": "20 Ekim 2011",
+    "published": "26 Ekim 2011",
+    "topics": [
+        {
+            "title": "Enflasyon Gelişmeleri",
+            "items": [
+                {
+                    "index": 1,
+                    "text": "Eylül ayında tüketici fiyatları yüzde 0,75 oranında artmış ve yıllık enflasyon yüzde 6,15’e gerilemiştir. Öngörüler çerçevesinde temel fiyat göstergelerinin yıllık artış oranı döviz kuru hareketlerine bağlı olarak yükselişini sürdürürken hizmet grubu fiyatlarının ana eğilimi, ulaştırma dışındaki kalemlerde ılımlı seyrini korumuştur."
+                },
+                {
+                    "index": 2,
+                    "text": "Gıda ve alkolsüz içecekler grubunda yıllık enflasyon işlenmemiş gıda fiyatlarındaki baz etkisiyle yüzde 2,23’e gerilemiştir. Baz etkileri dışında da aylık işlenmemiş gıda fiyatları meyve ve sebze fiyatlarına bağlı olarak olumlu bir görünüm sergilemiştir. Öte yandan, işlenmiş gıda grubunda alt gruplar geneline yayılan fiyat artışları Eylül ayında da sürmüş ve yıllık enflasyon yüzde 9,07’ye yükselmiştir. Ekim ayında yaşanan sel felaketinin işlenmemiş gıda fiyatlarını kısmen yukarı çekeceği; ancak bir önceki yıldaki yüksek baz etkisinin bu grupta yıllık enflasyonu sınırlayacağı tahmin edilmektedir."
+                },
+                {
+                    "index": 3,
+                    "text": "Hizmet fiyatları Eylül ayında yüzde 0,88 oranında artarken, yıllık hizmet enflasyonu yüzde 6,36’ya yükselmiştir. Akaryakıt ve işlenmiş gıda fiyat artışları ulaştırma ve yemek hizmetleri fiyatlarına yansımaya devam etmiştir. Eylül ayında hizmet alt gruplarının genelinde yıllık enflasyon yükselirken mevsimsellikten arındırılmış veriler daha ılımlı bir ana eğilime işaret etmektedir."
+                },
+                {
+                    "index": 4,
+                    "text": "Temel mal grubunda yıllık enflasyon Türk lirasında süregelen değer kaybının etkisiyle Eylül ayı itibarıyla yüzde 7,64 oranına yükselmiştir. Bu artışa en belirgin katkı dayanıklı tüketim malları fiyatlarından gelmiştir. Giyim grubunda ise yıllık enflasyon 2010 yılı Kasım ayından bu yana süregelen artışın ardından Eylül ayında gerilemiştir. Ancak bu durumun indirim sezonuna özgü geçici etkileri yansıttığı; tekstil ve hazır giyim ithalatında alınan koruma önlemlerine bağlı olarak yılın son çeyreğinde giyim enflasyonunun tekrar yükseleceği öngörülmektedir."
+                },
+                {
+                    "index": 5,
+                    "text": "Yönetilen/yönlendirilen fiyat artışları kısa vadede tüketici enflasyonunun artış göstermesine neden olacaktır. 13 Ekim 2011 tarihli resmi gazetede yayımlanan Bakanlar Kurulu kararı ile bazı motorlu taşıt, cep telefonu, alkollü içecek ve tütün mamullerinde ÖTV oranları artırılmıştır. Söz konusu vergi artışlarından tüketici fiyatlarına en belirgin katkının tütün ürünlerinden geleceği, diğer kalemlerin etkisinin görece sınırlı olacağı tahmin edilmektedir."
+                }
+            ]
+        },
+        {
+            "title": "Enflasyonu Etkileyen Unsurlar",
+            "items": [
+                {
+                    "index": 6,
+                    "text": "Son dönemde açıklanan veriler, yılın ikinci yarısında iktisadi faaliyetin büyüme hızında kayda değer bir düşüş olacağına işaret etmektedir. Kurul tarafından Temmuz ayı üretim gelişmelerinin ana eğilimi yansıtmadığı yönündeki değerlendirme Ağustos ayı verilerince doğrulanmıştır. Nitekim mevsimsellikten arındırılmış sanayi üretimi Ağustos ayında tekrar gerileyerek Haziran ayı seviyesine dönmüştür. Kurul, küresel sorunların sanayi sektörü faaliyetini sınırlamaya devam edeceğini belirtmiştir."
+                },
+                {
+                    "index": 7,
+                    "text": "Yurt içi nihai talepteki yavaşlama eğilimi sürmektedir. Türk lirasındaki değer kaybına paralel olarak başta araç satışları olmak üzere dayanıklı mal grubuna yönelik talebin zayıflamaya devam etmesi beklenmektedir. Tüketici güvenindeki zayıf seyrin yanı sıra kredilerdeki dikkate değer yavaşlama bu görünümü desteklemektedir. Kredi gelişmelerine ek olarak kapasite kullanım oranlarındaki düşük düzeyler ve artan talep belirsizliği yatırımları sınırlamaktadır. Bütün bu gelişmeler, yurt içi talepteki yavaşlamanın sürebileceği yönünde sinyal vermektedir."
+                },
+                {
+                    "index": 8,
+                    "text": "Dış talep zayıf seyrini korumaktadır. Yakın dönemde ABD ve euro bölgesine yönelik büyüme tahminlerinin aşağı yönlü güncellenmesi küresel ekonomiye dair giderek olumsuzlaşan bir görünüme işaret etmektedir. Kurul, dış dünya büyümesine ilişkin görünümün yılın ilk yarısına kıyasla belirgin biçimde zayıfladığının altını çizerek küresel sorunların dış talebi sınırlamaya devam edeceğini ifade etmiştir."
+                },
+                {
+                    "index": 9,
+                    "text": "Son dönemde açıklanan veriler, iç ve dış talep arasındaki dengelenmenin öngörüldüğü şekilde sürdüğünü göstermektedir. Kurul, dış talepte hızlı bir toparlanma görülmese de, yurt içi talepte süregelen yavaşlamanın ithalat talebini sınırlayıcı etkilerinin belirginleştiği bir döneme girildiğini belirtmiştir. Tüketici kredilerindeki büyümenin daha makul seviyelere inmesi sonucunda özel kesim tasarruflarında arzulanan artış gerçekleşmeye başlamıştır. Bu çerçevede Kurul, cari işlemler dengesinde belirgin bir iyileşme gözlendiğini belirterek yılın son çeyreğinde bu eğilimin hız kazanacağına dikkat çekmiştir."
+                },
+                {
+                    "index": 10,
+                    "text": "Mevsimsellikten arındırılmış verilerle tarım dışı istihdamın sınırlı bir artış sergilediği Temmuz döneminde işsizlik oranları daha çok işgücüne katılımdaki düşüşün etkisiyle gerilemiştir. Bu dönemde, 2010 yılının ikinci yarısından itibaren istihdam büyümesinin yüksek olduğu hizmet ve inşaat sektörlerindeki artışlar sınırlı kalmıştır. Diğer taraftan, sanayi sektörü istihdamındaki gerileme eğilimi sürmüştür. Öncü göstergeler, sanayi sektöründe istihdam koşullarının zayıf seyretmeye devam edeceğine işaret etmektedir. Kurul, iktisadi faaliyetteki yavaşlama çerçevesinde özellikle ticaret ve ulaştırma-haberleşme gibi hizmet sektörlerinde de istihdam koşullarının zayıflayacağı öngörüsünde bulunmuştur."
+                }
+            ]
+        },
+        {
+            "title": "Para Politikası ve Riskler",
+            "items": [
+                {
+                    "index": 11,
+                    "text": "Kurul toplantıda, Ekim Enflasyon Raporu’nda yer alması öngörülen tahminleri değerlendirmiştir. Türk lirasında yakın zamanda gözlenen aşırı değer kaybı, işlenmemiş gıda fiyatlarındaki baz etkisi ve fiyatı yönetilen/yönlendirilen ürünlerdeki ayarlamalar nedeniyle, önümüzdeki aylarda enflasyonda belirgin bir yükseliş gözleneceği ifade edilmiştir. Merkez Bankası’nın, bu durumun orta vadeli enflasyon beklentilerini ve görünümünü etkilemesine izin vermemesi gerektiği konusunda tam mutabakata varılmıştır. Bu doğrultuda Kurul, borç verme faizlerinin önemli ölçüde artırılması yoluyla faiz koridorunun genişletilmesine karar vermiştir."
+                },
+                {
+                    "index": 12,
+                    "text": "Tahminler üretilirken Merkez Bankası’nın politika tepkisinin ikincil etkileri bertaraf edeceği bir politika duruşu benimsenmiştir. Bunun yanı sıra, Kurul üyeleri, küresel ekonominin zayıf görünümü dikkate alındığında, emtia fiyatlarının genel seyrinin de enflasyondaki düşüşü destekleyeceğini ifade etmiştir. Bu çerçevede, enflasyonun 2012 yılının başlarından itibaren kademeli olarak düşüşe geçeceği ve 2012 yılının sonunda hedefe yakın gerçekleşeceği bir görünüm esas alınmıştır."
+                },
+                {
+                    "index": 13,
+                    "text": "Enflasyonun kısa vadede hedefin üzerinde seyredecek olması enflasyon beklentileri ve fiyatlama davranışları üzerinde risk oluşturmaktadır. Kurul, Ekim ayı itibarıyla bu riskleri bertaraf etmeye yönelik bir politika duruşuna geçmiştir. Önümüzdeki dönemde de söz konusu riskler dikkatle takip edilecek ve orta vadeli enflasyon görünümünün bozulmaması için gerekli tedbirler alınacaktır."
+                },
+                {
+                    "index": 14,
+                    "text": "Enflasyon Raporu’nda orta vadeli görünüm sunulurken küresel iktisadi faaliyetin uzunca bir müddet zayıf seyredeceği ancak mevcut duruma kıyasla ek bir kötüleşme olmayacağı varsayılmıştır. Bununla birlikte, Kurul üyeleri küresel ekonomiye dair belirsizliklerin önemini korumaya devam ettiğine dikkat çekmiştir. Özellikle euro bölgesi ülkelerinin kamu borcuna ilişkin giderek artan sorunlar küresel ekonomiye dair riskleri canlı tutmaktadır. Temmuz Enflasyon Raporu’nun yayımlandığı dönemden bugüne euro bölgesi ülkelerinde kamu borcunun sürdürülebilirliğine ilişkin endişeler daha da artmış ve sorunların bölge bankacılık sektörüne sirayet edeceği yönündeki algılamalar güçlenmiştir. Euro bölgesi bankacılık sektöründeki sorunların giderilememesi ve bu durumun bir yayılma etkisiyle birlikte küresel sorunları daha da derinleştirmesi önemli bir risk unsuru olarak ortaya çıkmaktadır. Kurul, küresel ekonomideki gelişmeleri yakından izleyerek 4 Ağustos 2011 tarihli ara toplantıda belirlenen strateji çerçevesinde, yurt içi piyasalardaki istikrarı sağlamak için gerekli politika tedbirlerini gecikmeksizin almaya devam edecektir."
+                },
+                {
+                    "index": 15,
+                    "text": "Kurul, para politikası stratejisini oluştururken maliye politikasına ilişkin gelişmeleri yakından takip etmeye devam edecektir. Enflasyon Raporu’nda baz senaryoda yer alan enflasyon tahminleri Orta Vadeli Program’da belirlenen çerçeveyi esas almakta, dolayısıyla mali disiplinin devamını öngörmektedir. Kurul üyeleri, maliye politikasının söz konusu çerçeveden belirgin olarak sapması ve bu durumun orta vadeli enflasyon görünümünü olumsuz etkilemesi halinde para politikası duruşunun da güncellenmesinin söz konusu olabileceğini ifade etmiştir."
+                },
+                {
+                    "index": 16,
+                    "text": "Önümüzdeki dönemde para politikası fiyat istikrarının kalıcı olarak tesis edilmesine odaklanmaya ve finansal istikrarı gözetmeye devam edecektir. Bu süreçte Merkez Bankası ve diğer kurumlarca finansal istikrara yönelik alınan önlemlerin enflasyon görünümü üzerindeki etkileri de dikkatle değerlendirilecektir. Orta vadede mali disiplinin sürdürülmesi ve yapısal reform sürecinin güçlendirilmesi, ülkemizin kredi riskindeki göreli iyileşmeye katkıda bulunarak makroekonomik istikrarı ve fiyat istikrarını destekleyecektir. Mali disiplinin devamı aynı zamanda para politikasının hareket alanını genişletecek ve uzun vadeli faizlerin düşük düzeylerde kalıcı olmasını sağlayarak toplumsal refahı destekleyecektir. Bu çerçevede, yeni açıklanan Orta Vadeli Program’ın gerektirdiği yapısal düzenlemelerin hayata geçirilmesi konusunda atılacak adımlar büyük önem taşımaktadır."
+                }
+            ]
+        }
+    ],
+    "decision": "2011-67",
+    "governor": "Erdem Başçı",
+    "board": [
+        "Turalay Kenç",
+        "Necati Şahin",
+        "İbrahim Mustafa Turhan",
+        "Abdullah Yavaş",
+        "Mehmet Yörükoğlu"
+    ],
+    "abstract": "Para Politikası Kurulu (Kurul), politika faizi olan bir hafta vadeli repo ihale faiz oranı ile Bankamız bünyesindeki Bankalararası Para Piyasası ve İstanbul Menkul Kıymetler Borsası Repo-Ters Repo Pazarı’nda uygulanmakta olan faiz oranlarının aşağıdaki gibi belirlenmesine karar vermiştir: a) Politika faizi olan bir hafta vadeli repo ihale faiz oranı yüzde 5,75 düzeyinde sabit tutulmuştur, b) Gecelik faiz oranları: Merkez Bankası borçlanma faiz oranı yüzde 5 düzeyinde sabit tutulmuş; borç verme faiz oranı yüzde 9’dan yüzde 12,5’e, açık piyasa işlemleri çerçevesinde piyasa yapıcısı bankalara repo işlemleri yoluyla tanınan borçlanma imkanı faiz oranı yüzde 8’den yüzde 12’ye yükseltilmiştir, c) Geç Likidite Penceresi Faiz Oranları: Geç Likidite Penceresi uygulaması çerçevesinde, Bankalararası Para Piyasası’nda saat 16.00-17.00 arası gecelik vadede uygulanan Merkez Bankası borçlanma faiz oranı yüzde 0 düzeyinde sabit tutulmuş, borç verme faiz oranı yüzde 12’den yüzde 15,5’e yükseltilmiştir. Son dönemde açıklanan veriler, iç ve dış talep arasındaki dengelenmenin öngörüldüğü şekilde sürdüğünü göstermektedir. Tüketici kredilerindeki büyümenin daha makul seviyelere inmesi sonucunda özel kesim tasarruflarında arzulanan artış gerçekleşmeye başlamıştır. Bu çerçevede Kurul, cari işlemler dengesinde belirgin bir iyileşme gözlendiğini belirterek yılın son çeyreğinde bu eğilimin hız kazanacağına dikkat çekmiştir. Türk lirasında yakın zamanda gözlenen aşırı değer kaybı, işlenmemiş gıda fiyatlarındaki baz etkisi ve fiyatı yönetilen/yönlendirilen ürünlerdeki ayarlamalar nedeniyle, önümüzdeki aylarda enflasyonda belirgin bir yükseliş gözlenecektir. Merkez Bankası, bu durumun orta vadeli enflasyon beklentilerini ve görünümünü etkilemesine izin vermeyecektir. Bu doğrultuda Kurul, borç verme faizlerinin önemli ölçüde artırılması yoluyla faiz koridorunun genişletilmesine karar vermiştir. Bunun yanı sıra Kurul, küresel ekonomideki gelişmeleri yakından izleyerek 4 Ağustos 2011 tarihli ara toplantıda belirlenen strateji çerçevesinde, yurt içi piyasalardaki istikrarı sağlamak için gerekli politika tedbirlerini gecikmeksizin almaya devam edecektir. Açıklanacak her türlü yeni verinin ve haberin, Kurul’un geleceğe yönelik politika duruşunu değiştirmesine neden olabileceği önemle vurgulanmalıdır. Para Politikası Kurulu Toplantı Özeti beş iş günü içinde yayımlanacaktır."
+}
